@@ -1,0 +1,750 @@
+2024-09-22T14:52:19.173422+05:30 0x00001810 <INFO> SingleThreadedWorkerWin: Waiting for Work on worker thread : TelemetryServiceWorker
+2024-09-22T14:52:19.257218+05:30 0x0000ba08 <INFO> TelemetryService: Sampling rules from previous session recovered
+2024-09-22T14:52:19.269736+05:30 0x0000ba08 <INFO> TelemetryService: InitOfficeDiagnosticLevel to OfficeDiagnosticLevel::Unset
+2024-09-22T14:52:19.278719+05:30 0x0000ba08 <INFO> TelemetryService: Restored sampling rules from previous session
+2024-09-22T14:52:19.278719+05:30 0x0000ba08 <INFO> vdi::VDIProvider: : VDIMode: 0000
+2024-09-22T14:52:19.322887+05:30 0x0000ba08 <INFO> TelemetryService: Sampling rules from previous session recovered
+2024-09-22T14:52:19.328440+05:30 0x0000ba08 <INFO> TelemetryService: No primary user detected during a SetUserTenantId Call, setting 9188040d-6c67-4c5b-b112-36a304b66dad as default tenant
+2024-09-22T14:52:19.328440+05:30 0x0000ba08 <INFO> TelemetryService: No primary user detected during a SetUserId Call, setting 00000000-0000-0000-ffe6-b3f2063c3f14 as UserInfo_Id
+2024-09-22T14:52:19.328440+05:30 0x0000ba08 <INFO> TelemetryService: Restored sampling rules from previous session
+2024-09-22T14:52:19.332811+05:30 0x0000ba08 <INFO> TelemetryService: Registering ecs observer
+2024-09-22T14:52:19.332811+05:30 0x0000ba08 <INFO> ScenarioFactory: Registering ecs observer
+2024-09-22T14:52:19.332811+05:30 0x0000ba08 <INFO> UserbiService: Registering ecs observer
+2024-09-22T14:52:19.351904+05:30 0x0000ba08 <INFO> EcsSettings: Full build path /BuildSettings/WebView2Canary/x64/latestVersion
+2024-09-22T14:52:19.351904+05:30 0x0000ba08 <INFO> TelemetryEcsSettingsObserver: OnEcsSettingsRefreshed
+2024-09-22T14:52:19.419604+05:30 0x0000ba08 <INFO> TelemetryEcsSettingsObserver: Updating ecs values
+2024-09-22T14:52:19.419604+05:30 0x0000ba08 <INFO> TelemetryService: Using sampling rules from ecs
+2024-09-22T14:52:19.419604+05:30 0x0000ba08 <INFO> TelemetryService: InitOfficeDiagnosticLevel to OfficeDiagnosticLevel::Unset
+2024-09-22T14:52:19.419604+05:30 0x0000ba08 <INFO> TelemetryService: Getting configuration values for cloud life
+2024-09-22T14:52:19.419604+05:30 0x0000ba08 <INFO> TelemetryService: Using sampling rules from ecs
+2024-09-22T14:52:19.419604+05:30 0x0000ba08 <INFO> ScenarioFactoryEcsObserver: OnEcsSettingsRefreshed
+2024-09-22T14:52:19.488267+05:30 0x0000ba08 <INFO> ScenarioFactoryEcsObserver: Updating ecs values
+2024-09-22T14:52:19.488267+05:30 0x0000ba08 <INFO> UserbiEcsObserver: OnEcsSettingsRefreshed
+2024-09-22T14:52:19.541414+05:30 0x0000ba08 <INFO> UserbiEcsObserver: Updating ecs values
+2024-09-22T14:52:19.567398+05:30 0x0000ba08 <INFO> RestartManager: InitState previous_restart_reason: CleanStart restart_count: 0 early_crash_detected: false shutdown_hang_detected_: false zombie_detected_: false
+2024-09-22T14:52:19.691125+05:30 0x0000ba08 <INFO> settings::AppSettings: Main window state value: 0
+2024-09-22T14:52:19.691125+05:30 0x0000ba08 <INFO> settings::AppSettings: Main window state before restart value: 256
+2024-09-22T14:52:19.691125+05:30 0x0000ba08 <INFO> UserIntent: UserIntent: intent from cmdline: LaunchCore_system-initiated
+2024-09-22T14:52:19.691125+05:30 0x0000ba08 <INFO> UserIntent: GetUri: hash=42, intent=LaunchCore_system-initiated, last_restart_param=
+2024-09-22T14:52:19.691125+05:30 0x0000ba08 <INFO> RestartManager: RegisterForCrashRestart: We have a valid deeplink saved in registry for restart scenarios
+2024-09-22T14:52:19.700967+05:30 0x0000ba08 <INFO> IntentForStart: Getting intent for start based on last_restart_param: CleanStart
+2024-09-22T14:52:19.700967+05:30 0x0000ba08 <INFO> IntentForStart:  Clean application start.
+2024-09-22T14:52:19.701474+05:30 0x0000ba08 <INFO> UserIntent: UserIntent: intent from cmdline: LaunchCore_system-initiated
+2024-09-22T14:52:19.701474+05:30 0x0000ba08 <INFO> UserIntent: UserIntent: last_restart_param: 
+2024-09-22T14:52:19.701474+05:30 0x000024e0 <INFO> SingleThreadedWorkerWin: Waiting for Work on worker thread : swapfilewriter
+2024-09-22T14:52:19.706505+05:30 0x0000ba08 <INFO> cross_cloud::calling_persistent_store: ComputeGlobalState: origin not exist in cloud_states: cloud is destoryed: calling_persistent_store_manager
+2024-09-22T14:52:19.722731+05:30 0x0000ba08 <INFO> LocaleManager: OnLanguageSettingChanged: Language setting changed to en-IN
+2024-09-22T14:52:19.722731+05:30 0x0000ba08 <INFO> LocaleManager: OnPreferredUILanguagesChanged: Preferred UI languages: en-IN, en-US, 
+2024-09-22T14:52:19.744127+05:30 0x0000ba08 <INFO> CustomFrameConfiguration: Adding 'main_dark': CustomFrameTheme{button_size=UISizeLogical{width=44; height=48}; padding=UISizeLogical{width=0; height=0}; close_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#c4314b; mouse_down=#8e192ee6}; foreground=CustomFrameRendererColors{inactive=#5c5c5c; normal=#5c5c5c; mouse_over=#ffffff; mouse_down=#ffffff}}; minmax_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#ffffff1a; mouse_down=#ffffff0d}; foreground=CustomFrameRendererColors{inactive=#5c5c5c; normal=#5c5c5c; mouse_over=#999de5; mouse_down=#999de5}}}
+2024-09-22T14:52:19.744127+05:30 0x0000ba08 <INFO> CustomFrameConfiguration: Adding 'main_light': CustomFrameTheme{button_size=UISizeLogical{width=44; height=48}; padding=UISizeLogical{width=0; height=0}; close_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#c4314b; mouse_down=#8e192ee6}; foreground=CustomFrameRendererColors{inactive=#c7c7c7; normal=#c7c7c7; mouse_over=#ffffff; mouse_down=#ffffff}}; minmax_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#ffffffa6; mouse_down=#ffffff80}; foreground=CustomFrameRendererColors{inactive=#c7c7c7; normal=#c7c7c7; mouse_over=#6264a7; mouse_down=#6264a7}}}
+2024-09-22T14:52:19.744127+05:30 0x0000ba08 <INFO> CustomFrameConfiguration: Adding 'main_contrast': CustomFrameTheme{button_size=UISizeLogical{width=44; height=48}; padding=UISizeLogical{width=2; height=2}; close_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#1aebff; mouse_down=#1aebff}; foreground=CustomFrameRendererColors{inactive=#3ff23f; normal=#3ff23f; mouse_over=#000000; mouse_down=#000000}}; minmax_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#1aebff; mouse_down=#1aebff}; foreground=CustomFrameRendererColors{inactive=#3ff23f; normal=#3ff23f; mouse_over=#000000; mouse_down=#000000}}}
+2024-09-22T14:52:19.744127+05:30 0x0000ba08 <INFO> CustomFrameConfiguration: Adding 'nobuttons_dark': CustomFrameTheme{button_size=UISizeLogical{width=0; height=0}; padding=UISizeLogical{width=0; height=0}; close_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#ffffff00; mouse_down=#ffffff00}; foreground=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#ffffff00; mouse_down=#ffffff00}}; minmax_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#ffffff00; mouse_down=#ffffff00}; foreground=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#ffffff00; mouse_down=#ffffff00}}}
+2024-09-22T14:52:19.744127+05:30 0x0000ba08 <INFO> CustomFrameConfiguration: Adding 'nobuttons_light': CustomFrameTheme{button_size=UISizeLogical{width=0; height=0}; padding=UISizeLogical{width=0; height=0}; close_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#ffffff00; mouse_down=#ffffff00}; foreground=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#ffffff00; mouse_down=#ffffff00}}; minmax_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#ffffff00; mouse_down=#ffffff00}; foreground=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#ffffff00; mouse_down=#ffffff00}}}
+2024-09-22T14:52:19.744127+05:30 0x0000ba08 <INFO> CustomFrameConfiguration: Adding 'nobuttons_contrast': CustomFrameTheme{button_size=UISizeLogical{width=0; height=0}; padding=UISizeLogical{width=0; height=0}; close_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#ffffff00; mouse_down=#ffffff00}; foreground=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#ffffff00; mouse_down=#ffffff00}}; minmax_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#ffffff00; mouse_down=#ffffff00}; foreground=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#ffffff00; mouse_down=#ffffff00}}}
+2024-09-22T14:52:19.744127+05:30 0x0000ba08 <INFO> ForCustomDeepLink: Intent for custom deeplink: Custom_DeepLink
+2024-09-22T14:52:19.750449+05:30 0x0000ba08 <INFO> EcsSettings: Overriding core/startPage as https://teams.microsoft.com/v2/?skipauthstrap=1 from package configuration.json
+2024-09-22T14:52:19.754974+05:30 0x0000ba08 <INFO> GetLaunchCloudType: GetLaunchCloudType: active_users[0].cloudType = 0
+2024-09-22T14:52:19.760021+05:30 0x0000ba08 <INFO> boot::AppServices: GetCloudStartPageUri: teams.live.com
+2024-09-22T14:52:19.762543+05:30 0x0000ba08 <INFO> boot::AppServices: InitEcsUserContext: Initializing cached MagLev primary user context life
+2024-09-22T14:52:19.767501+05:30 0x0000ba08 <INFO> LogInfrastructure: Setting minimum severity: Debug
+2024-09-22T14:52:19.767501+05:30 0x0000ba08 <INFO> LogInfrastructure: Setting log auto flush: false
+2024-09-22T14:52:19.767501+05:30 0x0000ba08 <DBG>  native_modules::BoostAsioService: Starting BoostAsio Service IO Thread
+2024-09-22T14:52:19.767501+05:30 0x0000cc78 <DBG>  native_modules::BoostAsioService: Waiting for events on IO thread
+2024-09-22T14:52:19.818977+05:30 0x0000ba08 <DBG>  EventSuppressionService: Sampling rules updated
+2024-09-22T14:52:19.818977+05:30 0x0000ba08 <DBG>  EventSuppressionService: Sampling rules updated
+2024-09-22T14:52:19.818977+05:30 0x0000ba08 <INFO> TelemetryService: Using sampling rules from ecs
+2024-09-22T14:52:19.818977+05:30 0x0000ba08 <INFO> TelemetryService: InitOfficeDiagnosticLevel to OfficeDiagnosticLevel::Unset
+2024-09-22T14:52:19.818977+05:30 0x0000ba08 <INFO> TelemetryService: Getting configuration values for cloud life
+2024-09-22T14:52:19.818977+05:30 0x0000ba08 <DBG>  EventSuppressionService: Sampling rules updated
+2024-09-22T14:52:19.818977+05:30 0x0000ba08 <DBG>  EventSuppressionService: Sampling rules updated
+2024-09-22T14:52:19.818977+05:30 0x0000ba08 <INFO> TelemetryService: Using sampling rules from ecs
+2024-09-22T14:52:19.834019+05:30 0x0000ba08 <DBG>  JumpListManager: BuildTaskbarJumpList: re-building JumpList
+2024-09-22T14:52:19.840049+05:30 0x0000ba08 <DBG>  WinWindowClass: (name=MonitorChangeProbeWindow) Registering window class
+2024-09-22T14:52:19.840049+05:30 0x0000ba08 <DBG>  WinWindowClass: (name=MonitorChangeProbeWindow) Creating window: text="", parent hwnd=0x00000000, style=0x80000000
+2024-09-22T14:52:19.842087+05:30 0x0000ba08 <DBG>  NotificationPanelManagerWin: NotificationPanelManagerWinDisplay change probe init pos: UIPointPhysical{x=1; y=1}
+2024-09-22T14:52:19.842087+05:30 0x0000ba08 <INFO> EcsSettings: Overriding app/enableAppSwitcher as true from package configuration.json
+2024-09-22T14:52:19.842087+05:30 0x0000ba08 <INFO> AppSwitcher: AppSwitcher is enabled
+2024-09-22T14:52:19.855934+05:30 0x0000ba08 <INFO> AppSwitcher: Default app is: Teams_2
+2024-09-22T14:52:19.872073+05:30 0x0000ba08 <INFO> AppSwitcher: IsT1Running: No instances of teams.exe found!
+2024-09-22T14:52:19.872073+05:30 0x0000ba08 <INFO> AppSwitcher: Teams.exe is not found. So nothing to quit!
+2024-09-22T14:52:19.893615+05:30 0x0000ba08 <INFO> AppSwitcher: IsT1Running: No instances of teams.exe found!
+2024-09-22T14:52:19.898966+05:30 0x0000ba08 <INFO> EcsSettings: Overriding app/modifyComGlobalRoSettings as true from package configuration.json
+2024-09-22T14:52:19.898966+05:30 0x0000ba08 <INFO> win::ComGlobalSettings: global_ro_settings: 642
+2024-09-22T14:52:19.898966+05:30 0x0000ba08 <INFO> win::ComGlobalSettings: COMGLB_STA_MODALLOOP_SHARED_QUEUE_REMOVE_INPUT_MESSAGES: 2
+2024-09-22T14:52:19.899577+05:30 0x0000ba08 <INFO> boot::AppServices: GATT: not enabled
+2024-09-22T14:52:19.899577+05:30 0x0000ba08 <INFO> boot::AppServices: HFP BT Call controls: not enabled
+2024-09-22T14:52:19.900637+05:30 0x0000ba08 <INFO> boot::AppServices: Rooms IPC client: not enabled
+2024-09-22T14:52:19.900637+05:30 0x0000ba08 <INFO> boot::AppServices: Bluetooth Proximity: not enabled
+2024-09-22T14:52:19.900637+05:30 0x0000ba08 <INFO> boot::AppServices: ThirdPartyDevicesManagerEnabled: not enabled
+2024-09-22T14:52:19.904166+05:30 0x0000ba08 <INFO> EcsSettings: Full build path /BuildSettings/WebView2Canary/x64/buildLink
+2024-09-22T14:52:19.904166+05:30 0x0000ba08 <INFO> EcsSettings: Full build path /BuildSettings/WebView2Canary/x64/latestVersion
+2024-09-22T14:52:19.904166+05:30 0x0000bde0 <INFO> Updater: CheckUpdate: Checking for updates with intent: CheckUpdate
+2024-09-22T14:52:19.904166+05:30 0x0000bde0 <INFO> Updater: LaunchUpdateExeShellExecute Executable path: C:\Program Files\WindowsApps\MSTeams_24231.512.3106.6573_x64__8wekyb3d8bbwe\ms-teams.exe
+2024-09-22T14:52:19.928922+05:30 0x0000ba08 <DIAG> boot::AppServices: Storage Partition: Enabled: true enablePartitionWV2Environment: false custom_storage_partition_enabled: true previous_storage_partition_enabled: true
+2024-09-22T14:52:19.928922+05:30 0x0000ba08 <INFO> boot::AppServices: TMA settings: enabled
+2024-09-22T14:52:19.933005+05:30 0x0000ba08 <DBG>  SwapFileWriter: SwapFileWriter: Target file: tma_settings.json
+2024-09-22T14:52:19.934096+05:30 0x00009d20 <INFO> SingleThreadedWorkerWin: Waiting for Work on worker thread : swapfilewriter
+2024-09-22T14:52:19.936103+05:30 0x0000ba08 <INFO> PersistedSettings: Settings Mutated :0
+2024-09-22T14:52:19.936103+05:30 0x0000ba08 <DBG>  SwapFileWriter: ClearPendingWrite
+2024-09-22T14:52:19.936103+05:30 0x0000ba08 <INFO> boot::AppServices: TmaSettings object created!
+2024-09-22T14:52:19.936103+05:30 0x0000ba08 <DBG>  boot::AppServices: CreateTeamsCloud: Creating cloud for: teams.live.com
+2024-09-22T14:52:19.936103+05:30 0x0000ba08 <DBG>  TeamsCloudManager: Designating: https://teams.live.com as primary cloud.
+2024-09-22T14:52:19.936103+05:30 0x0000ba08 <DBG>  TeamsCloudManager: GetScenarioFactoryForHostName: No scenario factory for host name: teams.live.com
+2024-09-22T14:52:19.936103+05:30 0x0000ba08 <DBG>  win::appmodel: No installed T2 package found
+2024-09-22T14:52:19.936103+05:30 0x0000ba08 <INFO> ProtocolRegistrationWin: RegisterForMsDashTeams: ms-teams is registered for "ms-teams.exe"
+2024-09-22T14:52:19.936103+05:30 0x00009d20 <DBG>  PersistedSettings: Swap File Writer WriteNow Success
+2024-09-22T14:52:19.936103+05:30 0x0000ba08 <DBG>  win::appmodel: No installed T2 package found
+2024-09-22T14:52:19.936103+05:30 0x0000ba08 <INFO> ScenarioFactoryEcsObserver: Adding Scenario Wrapper Subscription for cloud CONSUMER
+2024-09-22T14:52:19.936103+05:30 0x0000ba08 <INFO> boot::AppServices: GetBadgeServiceGetting consumer badge service.
+2024-09-22T14:52:19.936103+05:30 0x0000ba08 <DBG>  TaskbarBadgeServiceLegacy:Consumer: OnSystemThemeChanged System theme changed to: Dark setting new badge asset...
+2024-09-22T14:52:19.936103+05:30 0x0000ba08 <INFO> TaskbarBadgeServiceLegacy:Consumer: TaskbarBadgeServiceLegacy constructor: clearing WinRT badge to avoid leaving old value
+2024-09-22T14:52:19.936103+05:30 0x0000ba08 <INFO> TaskbarBadgeServiceLegacy:Consumer: TaskbarBadgeServiceLegacy clearing WinRT for taskbar badge packaged
+2024-09-22T14:52:19.936103+05:30 0x0000ba08 <INFO> TaskbarBadgeServicePackaged: Running packaged SetBadge: NoBadge
+2024-09-22T14:52:19.936103+05:30 0x0000ba08 <INFO> TaskbarBadgeServicePackaged: Setting badge NoBadge
+2024-09-22T14:52:19.944991+05:30 0x0000ba08 <DBG>  SetUpJumpList: SetUpJumpListAsync, LoadCurrentAsync completes
+2024-09-22T14:52:19.983893+05:30 0x0000ba08 <INFO> TaskbarBadgeServicePackaged: TaskbarBadgeServicePackaged destructor: clearing badge to avoid leaving outdated value
+2024-09-22T14:52:19.983893+05:30 0x0000ba08 <INFO> TaskbarBadgeServicePackaged: Running packaged SetBadge: NoBadge
+2024-09-22T14:52:19.983893+05:30 0x0000ba08 <INFO> TaskbarBadgeServicePackaged: Setting badge NoBadge
+2024-09-22T14:52:19.992435+05:30 0x0000ba08 <DBG>  SetUpJumpList: SetUpJumpListAsync, SaveAsync completes
+2024-09-22T14:52:19.992435+05:30 0x0000ba08 <DBG>  BuildTaskbarJumpList.SetupJumpList: Jump list cleared successfully
+2024-09-22T14:52:20.010791+05:30 0x0000ba08 <INFO> TaskbarDualBadgeService: TaskbarBadgeDualServiceinit dual badge service
+2024-09-22T14:52:20.010791+05:30 0x0000ba08 <INFO> boot::AppServices: operator ()Recent cloud changed.
+2024-09-22T14:52:20.010791+05:30 0x0000ba08 <INFO> boot::AppServices: operator ()Enabling dual badge service.
+2024-09-22T14:52:20.010791+05:30 0x0000ba08 <INFO> TaskbarDualBadgeService: Enabling dual service.
+2024-09-22T14:52:20.010791+05:30 0x0000ba08 <DBG>  SwapFileWriter: SwapFileWriter: Target file: cloud_settings.json
+2024-09-22T14:52:20.010791+05:30 0x000047d4 <INFO> SingleThreadedWorkerWin: Waiting for Work on worker thread : swapfilewriter
+2024-09-22T14:52:20.184295+05:30 0x0000ba08 <DBG>  TeamsCloud(life): TeamsCloud: profile_ = tfl
+2024-09-22T14:52:20.184295+05:30 0x0000ba08 <INFO> native_modules::NativeModuleManager: Creating native module moduleloader
+2024-09-22T14:52:20.184295+05:30 0x0000ba08 <INFO> native_modules::NativeModuleManager: Creating native module Auth
+2024-09-22T14:52:20.184295+05:30 0x0000ba08 <INFO> native_modules::NativeModuleManager: Creating native module OsUtils
+2024-09-22T14:52:20.184295+05:30 0x0000ba08 <INFO> OsUtilsImpl: UI language changed to en-gb
+2024-09-22T14:52:20.184295+05:30 0x0000ba08 <INFO> native_modules::NativeModuleManager: Creating native module Heartbeat
+2024-09-22T14:52:20.192319+05:30 0x0000ba08 <INFO> native_modules::NativeModuleManager: Creating native module Ecs
+2024-09-22T14:52:20.192373+05:30 0x0000ba08 <INFO> native_modules::NativeModuleManager: Creating native module fileopenpreference
+2024-09-22T14:52:20.192373+05:30 0x0000ba08 <INFO> native_modules::NativeModuleManager: Creating native module tmpcore
+2024-09-22T14:52:20.192373+05:30 0x0000ba08 <INFO> native_modules::NativeModuleManager: Creating native module windowcontrols
+2024-09-22T14:52:20.192373+05:30 0x0000ba08 <DBG>  WindowControlsModule: WindowVisiblityChanged name=mc visible=false
+2024-09-22T14:52:20.192373+05:30 0x0000ba08 <INFO> native_modules::NativeModuleManager: Creating native module platformapp
+2024-09-22T14:52:20.192373+05:30 0x0000ba08 <INFO> native_modules::NativeModuleManager: Creating native module BrB
+2024-09-22T14:52:20.192373+05:30 0x0000ba08 <INFO> native_modules::NativeModuleManager: Creating native module callingcrosscloud
+2024-09-22T14:52:20.192373+05:30 0x0000ba08 <DBG>  native_modules::NativeModuleFactoryImpl: Creating CallingCrossCloudModule origin: https://teams.live.com
+2024-09-22T14:52:20.192373+05:30 0x0000ba08 <INFO> native_modules::NativeModuleManager: Creating native module callingcrosscloudpersistent
+2024-09-22T14:52:20.192373+05:30 0x0000ba08 <DBG>  native_modules::NativeModuleFactoryImpl: Creating CallingCrossCloudPersistentModule origin: https://teams.live.com
+2024-09-22T14:52:20.192373+05:30 0x0000ba08 <INFO> native_modules::NativeModuleManager: Creating native module callingcrosscloudtransient
+2024-09-22T14:52:20.192373+05:30 0x0000ba08 <DBG>  native_modules::NativeModuleFactoryImpl: Creating CallingCrossCloudTransientModule origin: https://teams.live.com
+2024-09-22T14:52:20.192373+05:30 0x0000ba08 <INFO> native_modules::NativeModuleManager: Creating native module userdataxcloud
+2024-09-22T14:52:20.192373+05:30 0x0000ba08 <DBG>  native_modules::NativeModuleFactoryImpl: Creating UserDataCrossCloudModule origin: https://teams.live.com
+2024-09-22T14:52:20.192373+05:30 0x0000ba08 <INFO> native_modules::NativeModuleManager: Creating native module Settings
+2024-09-22T14:52:20.192373+05:30 0x0000ba08 <INFO> native_modules::NativeModuleManager: Creating native module taskbar
+2024-09-22T14:52:20.192373+05:30 0x0000ba08 <INFO> native_modules::NativeModuleManager: Creating native module customvideobackground
+2024-09-22T14:52:20.192373+05:30 0x0000ba08 <DBG>  [VideoBKG] native_modules::CustomVideoBackgroundModule: Add kBackgroundFilter: https://teams.live.com/maglev/custom-video-background/upload
+2024-09-22T14:52:20.192373+05:30 0x0000ba08 <DBG>  [VideoBKG] native_modules::CustomVideoBackgroundModule: Add kUploadBackgroundImageFilter: https://teams.live.com/maglev/custom-video-background/upload/v2
+2024-09-22T14:52:20.192373+05:30 0x0000ba08 <DBG>  [VideoBKG] native_modules::CustomVideoBackgroundModule: Add kTenantBackgroundFilter: https://teams.live.com/maglev/custom-video-background/tenant-image
+2024-09-22T14:52:20.192373+05:30 0x0000ba08 <INFO> native_modules::NativeModuleManager: Creating native module Files
+2024-09-22T14:52:20.192373+05:30 0x0000ba08 <INFO> native_modules::NativeModuleManager: Creating native module bluetoothproximity
+2024-09-22T14:52:20.192373+05:30 0x0000ba08 <DBG>  BluetoothProximity: BluetoothProximityModulebluetoothproximity
+2024-09-22T14:52:20.192373+05:30 0x0000ba08 <INFO> native_modules::NativeModuleManager: Creating native module hid
+2024-09-22T14:52:20.192373+05:30 0x0000ba08 <INFO> native_modules::NativeModuleManager: Creating native module etw
+2024-09-22T14:52:20.192373+05:30 0x0000ba08 <INFO> native_modules::NativeModuleManager: Creating native module officeintegration
+2024-09-22T14:52:20.192373+05:30 0x0000ba08 <INFO> native_modules::NativeModuleManager: Creating native module Tmapolicy
+2024-09-22T14:52:20.192373+05:30 0x0000ba08 <INFO> native_modules::NativeModuleManager: Creating native module gatt
+2024-09-22T14:52:20.192373+05:30 0x0000ba08 <DBG>  GATTModule: GattModulegatt
+2024-09-22T14:52:20.192373+05:30 0x0000ba08 <INFO> native_modules::NativeModuleManager: Creating native module hfp
+2024-09-22T14:52:20.192373+05:30 0x0000ba08 <DBG>  HfpCallManagerModule: HfpCallManagerModulehfp
+2024-09-22T14:52:20.192373+05:30 0x0000ba08 <INFO> native_modules::NativeModuleManager: Creating native module roomservice
+2024-09-22T14:52:20.192373+05:30 0x0000ba08 <INFO> RoomServiceImpl: Creating RoomServiceImpl: roomsIpcClientEnabled=false, roomsDebugModeEnabled=false
+2024-09-22T14:52:20.192373+05:30 0x0000ba08 <DBG>  RoomServiceImpl: Explicitly running as standalone, no IPC connection established
+2024-09-22T14:52:20.192373+05:30 0x0000ba08 <INFO> native_modules::NativeModuleManager: Creating native module userpreferences
+2024-09-22T14:52:20.192373+05:30 0x0000ba08 <INFO> native_modules::NativeModuleManager: Creating native module profiler
+2024-09-22T14:52:20.192373+05:30 0x0000ba08 <INFO> native_modules::NativeModuleManager: Creating native module Telemetry
+2024-09-22T14:52:20.192373+05:30 0x0000ba08 <INFO> native_modules::NativeModuleManager: Creating native module thirdpartydevices
+2024-09-22T14:52:20.192373+05:30 0x0000ba08 <DBG>  ThirdPartyDevicesModule: ThirdPartyDevicesModulethirdpartydevices
+2024-09-22T14:52:20.192373+05:30 0x0000ba08 <WARN> ThirdPartyDevicesModule: third_party_devices_manager_ is not available
+2024-09-22T14:52:20.192373+05:30 0x0000ba08 <INFO> native_modules::NativeModuleManager: Creating native module updates
+2024-09-22T14:52:20.192373+05:30 0x0000ba08 <INFO> native_modules::NativeModuleManager: Creating native module webclientstates
+2024-09-22T14:52:20.192373+05:30 0x0000ba08 <INFO> native_modules::NativeModuleManager: Creating native module sharetarget
+2024-09-22T14:52:20.192373+05:30 0x0000ba08 <INFO> native_modules::NativeModuleManager: Creating native module appswitcher
+2024-09-22T14:52:20.192373+05:30 0x0000ba08 <INFO> native_modules::NativeModuleManager: Creating native module toasts
+2024-09-22T14:52:20.197402+05:30 0x0000ba08 <DBG>  ToastsModule: NotificationModeObserver enabled.
+2024-09-22T14:52:20.202763+05:30 0x0000ba08 <INFO> native_modules::NativeModuleManager: Creating native module globalshortcuts
+2024-09-22T14:52:20.202763+05:30 0x0000ba08 <INFO> native_modules::NativeModuleManager: Creating native module appdevicepermission
+2024-09-22T14:52:20.202763+05:30 0x0000ba08 <INFO> native_modules::NativeModuleManager: Creating native module m365link
+2024-09-22T14:52:20.213786+05:30 0x0000ba08 <INFO> native_modules::NativeModuleManager: Creating native module logscollection
+2024-09-22T14:52:20.213786+05:30 0x0000ba08 <INFO> native_modules::NativeModuleManager: Creating native module publicpreview
+2024-09-22T14:52:20.213786+05:30 0x0000ba08 <INFO> native_modules::NativeModuleManager: Creating native module vdi
+2024-09-22T14:52:20.213786+05:30 0x0000ba08 <INFO> native_modules::NativeModuleManager: Creating native module hostcapabilities
+2024-09-22T14:52:20.213786+05:30 0x0000ba08 <INFO> native_modules::NativeModuleManager: Creating native module noisesuppression
+2024-09-22T14:52:20.213786+05:30 0x0000ba08 <INFO> native_modules::NativeModuleManager: Creating native module teamauseractivityrecall
+2024-09-22T14:52:20.213786+05:30 0x0000ba08 <INFO> native_modules::NativeModuleManager: Creating native module SlimCore
+2024-09-22T14:52:20.216240+05:30 0x0000ba08 <INFO> native_modules::NativeModuleFactoryImpl: slimcore host services enabled: false
+2024-09-22T14:52:20.216240+05:30 0x0000ba08 <INFO> native_modules::NativeModuleFactoryImpl: Create remote module: RemoteSlimCore
+2024-09-22T14:52:20.216240+05:30 0x0000ba08 <DBG>  native_modules::RemoteModule: RemoteModuleImplSlimCore
+2024-09-22T14:52:20.216240+05:30 0x0000ba08 <INFO> native_modules::NativeModuleManager: Creating native module VdiBridgeWV2
+2024-09-22T14:52:20.217270+05:30 0x0000ba08 <ERR>  TeamsCloudManager: GetCloudForHostName: No cloud for host name: teams.live.com
+2024-09-22T14:52:20.217270+05:30 0x0000ba08 <DBG>  WebClientStateTracker: OnWebClientStateChange Registering highest new client state: Initializing
+2024-09-22T14:52:20.217270+05:30 0x0000ba08 <INFO> RegisterCrashMetadata: RegisterCrashMetadata adding metadata: AppInfo_ClientState metadata value Initializing
+2024-09-22T14:52:20.217270+05:30 0x0000ba08 <ERR>  native_modules::CallingCrossCloudModule: BroadcastGlobalState: Pie bridge not set.
+2024-09-22T14:52:20.217270+05:30 0x0000ba08 <DBG>  cross_cloud::calling_persistent_store: ComputeGlobalState: cloud operation_id: on-create-with-persistent-init origin: https://teams.live.com
+2024-09-22T14:52:20.217270+05:30 0x0000ba08 <DBG>  cross_cloud::CallingPersistentStoreManager: OnBroadcastGlobalState: cloud operation_id: on-create-with-persistent-init: received, skip writing to local storage
+2024-09-22T14:52:20.217270+05:30 0x0000ba08 <DBG>  native_modules::CallingXcPersistentModule: BroadcastGlobalState: cloud operation_id: on-create-with-persistent-init: received by origin: https://teams.live.com : skip broadcast.
+2024-09-22T14:52:20.217270+05:30 0x0000ba08 <DBG>  cross_cloud::calling_transient_store: ComputeGlobalState: cloud operation_id: on-create origin: https://teams.live.com
+2024-09-22T14:52:20.217270+05:30 0x0000ba08 <DBG>  native_modules::CallingXcTransientModule: BroadcastGlobalState: cloud operation_id: on-create: received by origin: https://teams.live.com : skip broadcast.
+2024-09-22T14:52:20.217270+05:30 0x0000ba08 <ERR>  native_modules::UserDataCrossCloudModule: BroadcastGlobalState: Pie bridge not set.
+2024-09-22T14:52:20.224278+05:30 0x0000ba08 <INFO> boot::AppServices: GetBadgeServiceGetting consumer badge service.
+2024-09-22T14:52:20.224278+05:30 0x0000ba08 <DBG>  TaskbarBadgeServiceLegacy:Work: OnSystemThemeChanged System theme changed to: Dark setting new badge asset...
+2024-09-22T14:52:20.224278+05:30 0x0000ba08 <INFO> TaskbarBadgeServiceLegacy:Work: TaskbarBadgeServiceLegacy constructor: clearing WinRT badge to avoid leaving old value
+2024-09-22T14:52:20.224278+05:30 0x0000ba08 <INFO> TaskbarBadgeServiceLegacy:Work: TaskbarBadgeServiceLegacy clearing WinRT for taskbar badge packaged
+2024-09-22T14:52:20.224278+05:30 0x0000ba08 <INFO> TaskbarBadgeServicePackaged: Running packaged SetBadge: NoBadge
+2024-09-22T14:52:20.224278+05:30 0x0000ba08 <INFO> TaskbarBadgeServicePackaged: Setting badge NoBadge
+2024-09-22T14:52:20.249597+05:30 0x0000ba08 <INFO> TaskbarBadgeServicePackaged: TaskbarBadgeServicePackaged destructor: clearing badge to avoid leaving outdated value
+2024-09-22T14:52:20.250696+05:30 0x0000ba08 <INFO> TaskbarBadgeServicePackaged: Running packaged SetBadge: NoBadge
+2024-09-22T14:52:20.250696+05:30 0x0000ba08 <INFO> TaskbarBadgeServicePackaged: Setting badge NoBadge
+2024-09-22T14:52:20.272083+05:30 0x0000ba08 <INFO> AppMenu: SubscribeToUserChanges subscribe to origin : https://teams.live.com
+2024-09-22T14:52:20.277656+05:30 0x0000ba08 <INFO> TmaSettings: SetDesktopConfig
+2024-09-22T14:52:20.283074+05:30 0x0000ba08 <INFO> boot::AppServices: Initialize user ring: general
+2024-09-22T14:52:20.283074+05:30 0x0000ba08 <INFO> RegisterCrashMetadata: RegisterCrashMetadata adding metadata: UserInfo_Ring metadata value general
+2024-09-22T14:52:20.283074+05:30 0x0000ba08 <INFO> RegisterCrashMetadata: RegisterCrashMetadata adding metadata: gpu metadata value AMD Radeon(TM) Graphics,Microsoft Basic Render Driver
+2024-09-22T14:52:20.283074+05:30 0x0000ba08 <INFO> RegisterCrashMetadata: RegisterCrashMetadata adding metadata: UserInfo_Tenant metadata value 
+2024-09-22T14:52:20.284156+05:30 0x0000ba08 <INFO> boot::AppServices: SkypeBusinessIpcManager Skype for Business pipe manager disabled by ECS
+2024-09-22T14:52:20.284156+05:30 0x0000ba08 <DBG>  boot::AppServices: core.enableAsyncLaunchCloud:true
+2024-09-22T14:52:20.288181+05:30 0x0000ba08 <INFO> RestartManager: StartEcsExpIdsTrackingForCrashReporting Exp config ids tracking started
+2024-09-22T14:52:20.288181+05:30 0x0000ba08 <INFO> boot::SingleInstanceService: Starting first instance
+2024-09-22T14:52:20.288181+05:30 0x0000bcb8 <INFO> base::PipeServer: Starting PipeServer
+2024-09-22T14:52:20.288181+05:30 0x0000bcb8 <INFO> boot::SingleInstanceService: OnConnected: Releasing server mutex
+2024-09-22T14:52:20.288181+05:30 0x0000ba08 <DBG>  WatchDogWin: Watchdog is not enabled, not starting
+2024-09-22T14:52:20.288181+05:30 0x0000ba08 <DBG>  DesktopApp: Run
+2024-09-22T14:52:20.288181+05:30 0x0000ba08 <INFO> TeamsInfo: ********************** TEAMS INFO ***********************
+2024-09-22T14:52:20.288181+05:30 0x0000ba08 <INFO> TeamsInfo: App Version: 24231.512.3106.6573
+2024-09-22T14:52:20.288181+05:30 0x0000ba08 <INFO> TeamsInfo: Session Id: 343ef721-56d2-4519-9ea2-e87457dea39d
+2024-09-22T14:52:20.288181+05:30 0x0000ba08 <INFO> TeamsInfo: PID: 15,296
+2024-09-22T14:52:20.293251+05:30 0x0000ba08 <INFO> TeamsInfo: CpuArchitecture: amd64
+2024-09-22T14:52:20.293251+05:30 0x0000ba08 <INFO> TeamsInfo: Cpu:ogicalProcessorCount: 16
+2024-09-22T14:52:20.293251+05:30 0x0000ba08 <INFO> TeamsInfo: CpuPhysicalProcessorCoreCount: 8
+2024-09-22T14:52:20.293251+05:30 0x0000ba08 <INFO> TeamsInfo: Memory: 16,518,443,008 bytes
+2024-09-22T14:52:20.293251+05:30 0x0000ba08 <INFO> TeamsInfo: OsName: Windows 11 CoreSingleLanguage
+2024-09-22T14:52:20.293251+05:30 0x0000ba08 <INFO> TeamsInfo: OsVersion: 10.0.22631
+2024-09-22T14:52:20.293251+05:30 0x0000ba08 <INFO> TeamsInfo: SystemName: LAPTOP-TEUDL58G
+2024-09-22T14:52:20.293251+05:30 0x0000ba08 <INFO> TeamsInfo: Make: ASUSTeK COMPUTER INC.
+2024-09-22T14:52:20.293251+05:30 0x0000ba08 <INFO> TeamsInfo: Model: VivoBook_ASUSLaptop X513UA_KM513UA
+2024-09-22T14:52:20.293251+05:30 0x0000ba08 <INFO> TeamsInfo: OfficeMachineId: 53fef1c6-5d02-ee43-aae1-ca9120d23173
+2024-09-22T14:52:20.293251+05:30 0x0000ba08 <INFO> TeamsInfo: systemSku: 
+2024-09-22T14:52:20.293251+05:30 0x0000ba08 <INFO> TeamsInfo: WindowsMode: S-Mode not enabled
+2024-09-22T14:52:20.293251+05:30 0x0000ba08 <INFO> TeamsInfo: WindowsSku: PRODUCT_CORE_SINGLELANGUAGE
+2024-09-22T14:52:20.293251+05:30 0x0000ba08 <INFO> TeamsInfo: DeviceId: 55406602-4b9b-46f5-b5d1-1cf2ac11d40e
+2024-09-22T14:52:20.293251+05:30 0x0000ba08 <INFO> TeamsInfo: UbrVersion: 4037
+2024-09-22T14:52:20.293251+05:30 0x0000ba08 <INFO> TeamsInfo: AppCenterInstallerId: N/A
+2024-09-22T14:52:20.293251+05:30 0x0000ba08 <INFO> TeamsInfo: ********************** TEAMS INFO ***********************
+2024-09-22T14:52:20.293251+05:30 0x0000ba08 <DBG>  TeamsCloudManager: GetDefaultCloud
+2024-09-22T14:52:20.293251+05:30 0x0000ba08 <DBG>  TeamsCloud(life): ColdLaunch intent: LaunchCore_system-initiated
+2024-09-22T14:52:20.299752+05:30 0x0000ba08 <DBG>  TeamsCloud(life): ColdLaunch Updated intent: LaunchCore_system-initiated
+2024-09-22T14:52:20.300998+05:30 0x0000ba08 <DBG>  TeamsCloud(life): ColdLaunchInner
+2024-09-22T14:52:20.300998+05:30 0x0000ba08 <INFO> UserIntent: GetUri: hash=18,468, intent=LaunchCore_system-initiated, last_restart_param=
+2024-09-22T14:52:20.300998+05:30 0x0000ba08 <DBG>  MiniWindowSupported: Mini window is not supported for TFW
+2024-09-22T14:52:20.300998+05:30 0x0000ba08 <DBG>  TeamsCloud(life): ColdLaunchInner: start creating core window, start_page=https://teams.live.com/v2/
+2024-09-22T14:52:20.300998+05:30 0x0000ba08 <DBG>  TeamsCloud(life): ColdLaunchCoreWindow
+2024-09-22T14:52:20.300998+05:30 0x0000ba08 <DBG>  TeamsCloud(life): ColdLaunchCoreWindow: creating core window with attempt 1/1
+2024-09-22T14:52:20.300998+05:30 0x0000ba08 <DBG>  WinWindowClass: (name=TeamsNrc) Registering window class
+2024-09-22T14:52:20.300998+05:30 0x0000ba08 <DBG>  WinWindowClass: (name=TeamsNrc) Creating window: text="", parent hwnd=0xfffffffd, style=0x00000000
+2024-09-22T14:52:20.309581+05:30 0x0000ba08 <DBG>  WebViewControl: WebViewControlConstructor WVC (0,000,012,22B,351,7E0) for parent window: hwnd=0x001d047a
+2024-09-22T14:52:20.309581+05:30 0x0000ba08 <INFO> WebViewEnvironmentWin: Browser version: "128.0.2739.79"
+2024-09-22T14:52:20.309581+05:30 0x0000ba08 <ERR>  Scenario: shell_isolate_origins [stop,failure] InstanceId:f41cff99-1ad7-4cbe-92f3-5013a82b50e4,Scenario.Mode:3,Scenario.Name:shell_isolate_origins,Scenario.Status:failure,Scenario.Step:stop,Scenario.Steps:[{"Scenario.Status":"failure","Scenario.Step":"stop","delta":0,"elapsed":1044,"elapsedSinceProcessStart":1500,"previousStep":"start","sequence":1,"stepDelta":0}],Scenario.StepsEx:[{}],delta:0,elapsed:1044,elapsedSinceProcessStart:1500,eventpdclevel:1,previousStep:start,sequence:1,stepDelta:0
+2024-09-22T14:52:20.309581+05:30 0x0000ba08 <ERR>  Scenario: shell_strict_origin_isolation [stop,failure] InstanceId:7540fc8d-516d-40d9-b089-dcce8ef29a87,Scenario.Mode:3,Scenario.Name:shell_strict_origin_isolation,Scenario.Status:failure,Scenario.Step:stop,Scenario.Steps:[{"Scenario.Status":"failure","Scenario.Step":"stop","delta":0,"elapsed":1045,"elapsedSinceProcessStart":1501,"previousStep":"start","sequence":1,"stepDelta":0}],Scenario.StepsEx:[{}],delta:0,elapsed:1045,elapsedSinceProcessStart:1501,eventpdclevel:1,previousStep:start,sequence:1,stepDelta:0
+2024-09-22T14:52:20.309581+05:30 0x0000ba08 <DBG>  CompareWebViewRuntimeVersion: left = '128.0.2739.79' right = '125.0.0.0'
+2024-09-22T14:52:20.309581+05:30 0x0000ba08 <DBG>  CompareWebViewRuntimeVersion: result = 1
+2024-09-22T14:52:20.309581+05:30 0x0000ba08 <DBG>  CompareWebViewRuntimeVersion: left = '128.0.2739.79' right = '106.0.1370.52'
+2024-09-22T14:52:20.309581+05:30 0x0000ba08 <DBG>  CompareWebViewRuntimeVersion: result = 1
+2024-09-22T14:52:20.309581+05:30 0x0000ba08 <INFO> WebViewEnvironmentWin: Enabling Storage Partitioning on WV2 Runtime
+2024-09-22T14:52:20.309581+05:30 0x0000ba08 <DBG>  CompareWebViewRuntimeVersion: left = '128.0.2739.79' right = '113.0.0.0'
+2024-09-22T14:52:20.309581+05:30 0x0000ba08 <DBG>  CompareWebViewRuntimeVersion: result = 1
+2024-09-22T14:52:20.309581+05:30 0x0000ba08 <DBG>  CompareWebViewRuntimeVersion: left = '128.0.2739.79' right = '118.0.2088.33'
+2024-09-22T14:52:20.309581+05:30 0x0000ba08 <DBG>  CompareWebViewRuntimeVersion: result = 1
+2024-09-22T14:52:20.309581+05:30 0x0000ba08 <INFO> WebViewEnvironmentWin: Enabling ink support
+2024-09-22T14:52:20.309581+05:30 0x0000ba08 <DBG>  CompareWebViewRuntimeVersion: left = '128.0.2739.79' right = '117.0.0.0'
+2024-09-22T14:52:20.309581+05:30 0x0000ba08 <DBG>  CompareWebViewRuntimeVersion: result = 1
+2024-09-22T14:52:20.309581+05:30 0x0000ba08 <INFO> WebViewEnvironmentWin: Disabling V8Maglev
+2024-09-22T14:52:20.309581+05:30 0x0000ba08 <INFO> WebViewEnvironmentWin: AdditionalBrowserArguments: --autoplay-policy=no-user-gesture-required --disable-background-timer-throttling --edge-webview-run-with-package-id --enable-features=AutofillReplaceCachedWebElementsByRendererIds,PartitionedCookies,ThirdPartyStoragePartitioning,msAbydos,msAbydosGestureSupport,msAbydosHandwritingAttr,msWebView2EnableDraggableRegions,msWebView2SetUserAgentOverrideOnIframes --disable-features=BreakoutBoxPreferCaptureTimestampInVideoFrames,V8Maglev,msFloatyShouldHonorIndiaHoldout,msWebOOUI
+2024-09-22T14:52:20.309581+05:30 0x0000ba08 <INFO> WebViewEnvironmentWin: Webview2Environment Language: en-IN
+2024-09-22T14:52:20.349576+05:30 0x0000ba08 <INFO> TeamsInfo: BrowserVersion: 128.0.2739.79
+2024-09-22T14:52:20.350688+05:30 0x0000ba08 <DBG>  WebViewEnvironmentWin: Attempting to create WebView Controller using profile: tfl
+2024-09-22T14:52:20.352194+05:30 0x0000ba08 <INFO> TeamsWebView: App in active use.
+2024-09-22T14:52:20.363140+05:30 0x0000ba08 <DBG>  WebViewScriptInjector:  Pending Script Recorded with id:  1
+2024-09-22T14:52:20.363140+05:30 0x0000ba08 <INFO> testmode::TestModeHelper: Not in test mode
+2024-09-22T14:52:20.367326+05:30 0x0000ba08 <DBG>  WebViewScriptInjector:  Pending Script Recorded with id:  2
+2024-09-22T14:52:20.367326+05:30 0x0000ba08 <DBG>  ExperienceLoader: Adding web request filter: https://statics.teams.cdn.office.net/teams-modular-packages/hashed-assets/msteams/*
+2024-09-22T14:52:20.367326+05:30 0x0000ba08 <DBG>  ExperienceLoader: Adding web request filter: https://teams.microsoft.com/v2/service-worker-noop.js
+2024-09-22T14:52:20.367326+05:30 0x0000ba08 <DBG>  ExperienceLoader: Adding web request filter: https://teams.microsoft.com/v2/worker/precompiled-web-worker-d88b1bbdb736b4a0.js\?*
+2024-09-22T14:52:20.367326+05:30 0x0000ba08 <DBG>  ExperienceLoader: Adding web request filter: https://teams.microsoft.com/v2/worker/precompiled-web-worker-d88b1bbdb736b4a0.js
+2024-09-22T14:52:20.367326+05:30 0x0000ba08 <DBG>  ExperienceLoader: Adding web request filter: https://statics.teams.cdn.office.net/teams-modular-packages/hashed-assets/*
+2024-09-22T14:52:20.367326+05:30 0x0000ba08 <DBG>  ExperienceLoader: Adding web request filter: https://teams.microsoft.com/v2/statics/teams-modular-packages/hashed-assets/*
+2024-09-22T14:52:20.367326+05:30 0x0000ba08 <DBG>  ExperienceLoader: Adding web request filter: https://teams.microsoft.com/v2/service-worker-noop.js\?*
+2024-09-22T14:52:20.367326+05:30 0x0000ba08 <DBG>  ExperienceLoader: Adding web request filter: https://teams.microsoft.com/statics/teams-modular-packages/hashed-assets/*
+2024-09-22T14:52:20.367326+05:30 0x0000ba08 <DBG>  ExperienceLoader: Adding web request filter: https://teams.microsoft.com/v2/\?*
+2024-09-22T14:52:20.367326+05:30 0x0000ba08 <DBG>  ExperienceLoader: Adding web request filter: https://teams.microsoft.com/v2/worker/precompiled-webrtc-web-worker-c8d28266a7158e3b.js\?*
+2024-09-22T14:52:20.367326+05:30 0x0000ba08 <DBG>  ExperienceLoader: Adding web request filter: https://teams.microsoft.com/v2/statics/teams-modular-packages/hashed-assets/msteams/*
+2024-09-22T14:52:20.367326+05:30 0x0000ba08 <DBG>  ExperienceLoader: Adding web request filter: https://teams.microsoft.com/statics/teams-modular-packages/hashed-assets/msteams/*
+2024-09-22T14:52:20.367326+05:30 0x0000ba08 <DBG>  ExperienceLoader: Adding web request filter: https://teams.microsoft.com/v2/worker/precompiled-telemetry-web-worker-cd271ef590da9309.js\?*
+2024-09-22T14:52:20.367326+05:30 0x0000ba08 <DBG>  ExperienceLoader: Adding web request filter: https://teams.microsoft.com/v2/worker/precompiled-telemetry-web-worker-cd271ef590da9309.js
+2024-09-22T14:52:20.367326+05:30 0x0000ba08 <DBG>  ExperienceLoader: Adding web request filter: https://teams.microsoft.com/v2/
+2024-09-22T14:52:20.367326+05:30 0x0000ba08 <DBG>  ExperienceLoader: Adding web request filter: https://teams.microsoft.com/v2/worker/precompiled-webrtc-web-worker-c8d28266a7158e3b.js
+2024-09-22T14:52:20.367326+05:30 0x0000ba08 <DBG>  ExperienceLoader: Adding web request filter: https://teams.microsoft.com/v2/index.html\?*
+2024-09-22T14:52:20.367326+05:30 0x0000ba08 <DBG>  ExperienceLoader: Adding web request filter: https://teams.microsoft.com/v2/index.html
+2024-09-22T14:52:20.367326+05:30 0x0000ba08 <DBG>  ExperienceLoader: Adding web request filter: https://teams.microsoft.com/v2\?*
+2024-09-22T14:52:20.367326+05:30 0x0000ba08 <DBG>  ExperienceLoader: Adding web request filter: https://teams.microsoft.com/v2
+2024-09-22T14:52:20.373334+05:30 0x0000ba08 <DBG>  GetNpmPackageVersion: Bundled web client version retrieved; version=240802120.8.30749348
+2024-09-22T14:52:20.373334+05:30 0x0000ba08 <DBG>  Version: TryParseVersionSegments: Version successfully parsed. version=240802120.8.30749348
+2024-09-22T14:52:20.373334+05:30 0x0000ba08 <INFO> WebClientVersionChecker: Web client version retrieved, version=
+2024-09-22T14:52:20.373334+05:30 0x0000ba08 <DBG>  TeamsCloud(life): SubscribeToEvents
+2024-09-22T14:52:20.373334+05:30 0x0000ba08 <DBG>  TeamsCloud(life): ColdLaunchCoreWindow: created core window
+2024-09-22T14:52:20.380757+05:30 0x0000ba08 <DBG>  TeamsCloud(life): ColdLaunchInner: registered timer to wait for nrc
+2024-09-22T14:52:20.384008+05:30 0x0000ba08 <DBG>  TeamsCloud(life): Starting Launcher timeout 360 seconds for reason: cold_launch_inner_systeminitiated
+2024-09-22T14:52:20.384008+05:30 0x0000ba08 <DBG>  ShellThreads: Starting Main Message Pump
+2024-09-22T14:52:20.384008+05:30 0x0000ba08 <DBG>  MessagePumpWin: Starting message pump
+2024-09-22T14:52:20.384008+05:30 0x0000ba08 <DBG>  TaskbarBadgeServiceLegacy:Consumer: SetBadge Setting badge: NoBadge
+2024-09-22T14:52:20.384008+05:30 0x0000ba08 <DBG>  TaskbarBadgeServiceLegacy:Consumer: SetBadge PreSetBadge verification: NoBadge
+2024-09-22T14:52:20.384008+05:30 0x0000ba08 <INFO> EcsSettings: Full build path /BuildSettings/WebView2Canary/x64/latestVersion
+2024-09-22T14:52:20.384008+05:30 0x0000ba08 <DBG>  EcsSettings: ClientId=55406602-4b9b-46f5-b5d1-1cf2ac11d40e aaduserid=00000000-0000-0000-ffe6-b3f2063c3f14 agents=TeamsBuilds,TeamsWebview2 audience=general cloud=life country=IN cpuarch=x64 desktopVersion=24231.512.3106.6573 environment=life id=00000000-0000-0000-ffe6-b3f2063c3f14 mtmaCount=1 osplatform=windows osversion=10.0.22631 teamslocale=en-gb teamsring=general tenantId=9188040d-6c67-4c5b-b112-36a304b66dad 
+2024-09-22T14:52:20.384008+05:30 0x0000ba08 <INFO> TelemetryEcsSettingsObserver: OnEcsSettingsRefreshed
+2024-09-22T14:52:20.443828+05:30 0x0000ba08 <INFO> TelemetryEcsSettingsObserver: Updating ecs values
+2024-09-22T14:52:20.443828+05:30 0x0000ba08 <DBG>  EventSuppressionService: Sampling rules updated
+2024-09-22T14:52:20.443828+05:30 0x0000ba08 <DBG>  EventSuppressionService: Sampling rules updated
+2024-09-22T14:52:20.443828+05:30 0x0000ba08 <INFO> TelemetryService: Using sampling rules from ecs
+2024-09-22T14:52:20.448351+05:30 0x0000ba08 <INFO> TelemetryService: InitOfficeDiagnosticLevel to OfficeDiagnosticLevel::Unset
+2024-09-22T14:52:20.448351+05:30 0x0000ba08 <INFO> TelemetryService: Getting configuration values for cloud life
+2024-09-22T14:52:20.448351+05:30 0x0000ba08 <DBG>  EventSuppressionService: Sampling rules updated
+2024-09-22T14:52:20.449050+05:30 0x0000ba08 <DBG>  EventSuppressionService: Sampling rules updated
+2024-09-22T14:52:20.449050+05:30 0x0000ba08 <INFO> TelemetryService: Using sampling rules from ecs
+2024-09-22T14:52:20.449050+05:30 0x0000ba08 <INFO> ScenarioFactoryEcsObserver: OnEcsSettingsRefreshed
+2024-09-22T14:52:20.515852+05:30 0x0000ba08 <INFO> ScenarioFactoryEcsObserver: Updating ecs values
+2024-09-22T14:52:20.515852+05:30 0x0000ba08 <INFO> ScenarioFactoryEcsObserver: Updating ecs values for wrapper CONSUMER
+2024-09-22T14:52:20.515852+05:30 0x0000ba08 <INFO> UserbiEcsObserver: OnEcsSettingsRefreshed
+2024-09-22T14:52:20.567421+05:30 0x0000ba08 <INFO> UserbiEcsObserver: Updating ecs values
+2024-09-22T14:52:20.567421+05:30 0x0000ba08 <INFO> EcsSettings: Full build path /BuildSettings/WebView2Canary/x64/latestVersion
+2024-09-22T14:52:20.567421+05:30 0x0000ba08 <INFO> EcsSettings: Full build path /BuildSettings/WebView2Canary/x64/buildLink
+2024-09-22T14:52:20.567421+05:30 0x0000ba08 <DBG>  TmaEcsSettingsObserver: OnEcsSettingsRefreshed
+2024-09-22T14:52:20.567421+05:30 0x0000ba08 <INFO> TmaSettings: operator (): Skipping ECS fetch for MSA account since TMA is not supported yet
+2024-09-22T14:52:20.578992+05:30 0x0000ba08 <DBG>  TaskbarBadgeServiceLegacy:Work: SetBadge Setting badge: NoBadge
+2024-09-22T14:52:20.578992+05:30 0x0000ba08 <DBG>  TaskbarBadgeServiceLegacy:Work: SetBadge PreSetBadge verification: NoBadge
+2024-09-22T14:52:20.578992+05:30 0x0000ba08 <INFO> NotificationIcon: (id={A8E6247B-2DC9-4989-B36F-2C5CAFFF8C5E}; fallback_id=1) DeleteIcon id={A8E6247B-2DC9-4989-B36F-2C5CAFFF8C5E}
+2024-09-22T14:52:20.578992+05:30 0x0000ba08 <INFO> NotificationIcon: (id={A8E6247B-2DC9-4989-B36F-2C5CAFFF8C5E}; fallback_id=1) Shell_NotifyIconW(NIM_DELETE, id={A8E6247B-2DC9-4989-B36F-2C5CAFFF8C5E})
+2024-09-22T14:52:20.578992+05:30 0x0000ba08 <ERR>  WIL: D:\a\_work\1\s\src\base\win\notification_icon.cpp(140)\ms-teams.exe!00007FF691968CE0: (caller: 00007FF691968F7A) LogHr(1) tid(ba08) 80004005 Unspecified error
+2024-09-22T14:52:20.578992+05:30 0x0000ba08 <INFO> NotificationIcon: (id={A8E6247B-2DC9-4989-B36F-2C5CAFFF8C5E}; fallback_id=1) Shell_NotifyIconW(NIM_ADD, id={A8E6247B-2DC9-4989-B36F-2C5CAFFF8C5E})
+2024-09-22T14:52:20.643228+05:30 0x0000ba08 <INFO> NotificationIcon: (id={A8E6247B-2DC9-4989-B36F-2C5CAFFF8C5E}; fallback_id=1) Shell_NotifyIconW(NIM_SETVERSION, id={A8E6247B-2DC9-4989-B36F-2C5CAFFF8C5E})
+2024-09-22T14:52:20.643228+05:30 0x0000ba08 <INFO> SingleInstanceServiceWin::RelinquishMutex: 0,000,000,000,000,474
+2024-09-22T14:52:21.248534+05:30 0x0000ba08 <DBG>  native_modules::NativeModuleManager: AddModuleToPie: moduleloader
+2024-09-22T14:52:21.248534+05:30 0x0000ba08 <DBG>  native_modules::NativeModuleManager: AddModuleToPie: Auth
+2024-09-22T14:52:21.248534+05:30 0x0000ba08 <DBG>  native_modules::NativeModuleManager: AddModuleToPie: OsUtils
+2024-09-22T14:52:21.248534+05:30 0x0000ba08 <DBG>  native_modules::NativeModuleManager: AddModuleToPie: Heartbeat
+2024-09-22T14:52:21.248534+05:30 0x0000ba08 <DBG>  native_modules::NativeModuleManager: AddModuleToPie: Ecs
+2024-09-22T14:52:21.248534+05:30 0x0000ba08 <DBG>  native_modules::NativeModuleManager: AddModuleToPie: fileopenpreference
+2024-09-22T14:52:21.248534+05:30 0x0000ba08 <DBG>  native_modules::NativeModuleManager: AddModuleToPie: tmpcore
+2024-09-22T14:52:21.248534+05:30 0x0000ba08 <DBG>  ToastServiceWin: Subscribing for activations with source tmpcore_consumer
+2024-09-22T14:52:21.248534+05:30 0x0000ba08 <DBG>  native_modules::NativeModuleManager: AddModuleToPie: windowcontrols
+2024-09-22T14:52:21.248534+05:30 0x0000ba08 <DBG>  native_modules::NativeModuleManager: AddModuleToPie: platformapp
+2024-09-22T14:52:21.248534+05:30 0x0000ba08 <DBG>  native_modules::NativeModuleManager: AddModuleToPie: BrB
+2024-09-22T14:52:21.248534+05:30 0x0000ba08 <DBG>  native_modules::NativeModuleManager: AddModuleToPie: callingcrosscloud
+2024-09-22T14:52:21.248534+05:30 0x0000ba08 <DBG>  native_modules::NativeModuleManager: AddModuleToPie: callingcrosscloudpersistent
+2024-09-22T14:52:21.248534+05:30 0x0000ba08 <DBG>  native_modules::NativeModuleManager: AddModuleToPie: callingcrosscloudtransient
+2024-09-22T14:52:21.248534+05:30 0x0000ba08 <DBG>  native_modules::NativeModuleManager: AddModuleToPie: userdataxcloud
+2024-09-22T14:52:21.248534+05:30 0x0000ba08 <DBG>  native_modules::NativeModuleManager: AddModuleToPie: Settings
+2024-09-22T14:52:21.253541+05:30 0x0000ba08 <DBG>  native_modules::NativeModuleManager: AddModuleToPie: taskbar
+2024-09-22T14:52:21.253541+05:30 0x0000ba08 <DBG>  native_modules::NativeModuleManager: AddModuleToPie: customvideobackground
+2024-09-22T14:52:21.253541+05:30 0x0000ba08 <DBG>  native_modules::NativeModuleManager: AddModuleToPie: Files
+2024-09-22T14:52:21.253541+05:30 0x0000ba08 <DBG>  native_modules::NativeModuleManager: AddModuleToPie: bluetoothproximity
+2024-09-22T14:52:21.253541+05:30 0x0000ba08 <DBG>  native_modules::NativeModuleManager: AddModuleToPie: hid
+2024-09-22T14:52:21.253541+05:30 0x0000ba08 <DBG>  native_modules::NativeModuleManager: AddModuleToPie: etw
+2024-09-22T14:52:21.253541+05:30 0x0000ba08 <DBG>  native_modules::NativeModuleManager: AddModuleToPie: officeintegration
+2024-09-22T14:52:21.253541+05:30 0x0000ba08 <DBG>  native_modules::NativeModuleManager: AddModuleToPie: Tmapolicy
+2024-09-22T14:52:21.253541+05:30 0x0000ba08 <DBG>  native_modules::NativeModuleManager: AddModuleToPie: gatt
+2024-09-22T14:52:21.253541+05:30 0x0000ba08 <DBG>  native_modules::NativeModuleManager: AddModuleToPie: hfp
+2024-09-22T14:52:21.253541+05:30 0x0000ba08 <DBG>  native_modules::NativeModuleManager: AddModuleToPie: roomservice
+2024-09-22T14:52:21.253541+05:30 0x0000ba08 <DBG>  native_modules::NativeModuleManager: AddModuleToPie: userpreferences
+2024-09-22T14:52:21.253541+05:30 0x0000ba08 <DBG>  native_modules::NativeModuleManager: AddModuleToPie: profiler
+2024-09-22T14:52:21.256551+05:30 0x0000ba08 <DBG>  native_modules::NativeModuleManager: AddModuleToPie: Telemetry
+2024-09-22T14:52:21.256551+05:30 0x0000ba08 <DBG>  native_modules::NativeModuleManager: AddModuleToPie: thirdpartydevices
+2024-09-22T14:52:21.256551+05:30 0x0000ba08 <DBG>  native_modules::NativeModuleManager: AddModuleToPie: updates
+2024-09-22T14:52:21.256551+05:30 0x0000ba08 <DBG>  native_modules::NativeModuleManager: AddModuleToPie: webclientstates
+2024-09-22T14:52:21.256551+05:30 0x0000ba08 <DBG>  native_modules::NativeModuleManager: AddModuleToPie: sharetarget
+2024-09-22T14:52:21.256551+05:30 0x0000ba08 <DBG>  native_modules::NativeModuleManager: AddModuleToPie: appswitcher
+2024-09-22T14:52:21.256551+05:30 0x0000ba08 <DBG>  native_modules::NativeModuleManager: AddModuleToPie: toasts
+2024-09-22T14:52:21.256551+05:30 0x0000ba08 <DBG>  native_modules::NativeModuleManager: AddModuleToPie: globalshortcuts
+2024-09-22T14:52:21.256551+05:30 0x0000ba08 <DBG>  native_modules::NativeModuleManager: AddModuleToPie: appdevicepermission
+2024-09-22T14:52:21.259061+05:30 0x0000ba08 <DBG>  native_modules::NativeModuleManager: AddModuleToPie: m365link
+2024-09-22T14:52:21.259061+05:30 0x0000ba08 <DBG>  native_modules::NativeModuleManager: AddModuleToPie: logscollection
+2024-09-22T14:52:21.259061+05:30 0x0000ba08 <DBG>  native_modules::NativeModuleManager: AddModuleToPie: publicpreview
+2024-09-22T14:52:21.259061+05:30 0x0000ba08 <DBG>  native_modules::NativeModuleManager: AddModuleToPie: vdi
+2024-09-22T14:52:21.259061+05:30 0x0000ba08 <DBG>  native_modules::NativeModuleManager: AddModuleToPie: hostcapabilities
+2024-09-22T14:52:21.259061+05:30 0x0000ba08 <DBG>  native_modules::NativeModuleManager: AddModuleToPie: noisesuppression
+2024-09-22T14:52:21.259061+05:30 0x0000ba08 <DBG>  native_modules::NativeModuleManager: AddModuleToPie: teamauseractivityrecall
+2024-09-22T14:52:21.266134+05:30 0x0000ba08 <DBG>  WebViewControl: SetIsVisible: visible=true
+2024-09-22T14:52:21.266134+05:30 0x0000ba08 <INFO> WebViewControl: Granting permission by default: MICROPHONE
+2024-09-22T14:52:21.266134+05:30 0x0000ba08 <INFO> WebViewControl: Granting permission by default: CAMERA
+2024-09-22T14:52:21.266134+05:30 0x0000ba08 <INFO> WebViewControl: Granting permission by default: WINDOW_MANAGEMENT
+2024-09-22T14:52:21.269997+05:30 0x0000ba08 <DBG>  WebViewControl: Adding https://local.teams.microsoft.invalid/shared-files/* to web intercept filter (no source kinds)
+2024-09-22T14:52:21.269997+05:30 0x0000ba08 <INFO> WebViewControl: Trying to append UserAgent string: Teams/24231.512.3106.6573/49
+2024-09-22T14:52:21.269997+05:30 0x0000ba08 <DBG>  WebViewControl: Adding https://local.teams.microsoft.invalid/client-bindings/* to web intercept filter (no source kinds)
+2024-09-22T14:52:21.269997+05:30 0x0000ba08 <DBG>  WebViewControl: Adding https://statics.teams.cdn.office.net/teams-modular-packages/hashed-assets/msteams/* to web intercept filter (source kinds: 0x00000005)
+2024-09-22T14:52:21.269997+05:30 0x0000ba08 <DBG>  WebViewControl: Adding https://teams.microsoft.com/v2/service-worker-noop.js to web intercept filter (source kinds: 0x00000005)
+2024-09-22T14:52:21.269997+05:30 0x0000ba08 <DBG>  WebViewControl: Adding https://teams.microsoft.com/v2/worker/precompiled-web-worker-d88b1bbdb736b4a0.js\?* to web intercept filter (source kinds: 0x00000005)
+2024-09-22T14:52:21.269997+05:30 0x0000ba08 <DBG>  WebViewControl: Adding https://teams.microsoft.com/v2/worker/precompiled-web-worker-d88b1bbdb736b4a0.js to web intercept filter (source kinds: 0x00000005)
+2024-09-22T14:52:21.269997+05:30 0x0000ba08 <DBG>  WebViewControl: Adding https://statics.teams.cdn.office.net/teams-modular-packages/hashed-assets/* to web intercept filter (source kinds: 0x00000005)
+2024-09-22T14:52:21.269997+05:30 0x0000ba08 <DBG>  WebViewControl: Adding https://teams.microsoft.com/v2/statics/teams-modular-packages/hashed-assets/* to web intercept filter (source kinds: 0x00000005)
+2024-09-22T14:52:21.272504+05:30 0x0000ba08 <DBG>  WebViewControl: Adding https://teams.microsoft.com/v2/service-worker-noop.js\?* to web intercept filter (source kinds: 0x00000005)
+2024-09-22T14:52:21.272504+05:30 0x0000ba08 <DBG>  WebViewControl: Adding https://teams.microsoft.com/statics/teams-modular-packages/hashed-assets/* to web intercept filter (source kinds: 0x00000005)
+2024-09-22T14:52:21.272504+05:30 0x0000ba08 <DBG>  WebViewControl: Adding https://teams.microsoft.com/v2/\?* to web intercept filter (source kinds: 0x00000005)
+2024-09-22T14:52:21.272504+05:30 0x0000ba08 <DBG>  WebViewControl: Adding https://teams.microsoft.com/v2/worker/precompiled-webrtc-web-worker-c8d28266a7158e3b.js\?* to web intercept filter (source kinds: 0x00000005)
+2024-09-22T14:52:21.272504+05:30 0x0000ba08 <DBG>  WebViewControl: Adding https://teams.microsoft.com/v2/statics/teams-modular-packages/hashed-assets/msteams/* to web intercept filter (source kinds: 0x00000005)
+2024-09-22T14:52:21.272504+05:30 0x0000ba08 <DBG>  WebViewControl: Adding https://teams.microsoft.com/statics/teams-modular-packages/hashed-assets/msteams/* to web intercept filter (source kinds: 0x00000005)
+2024-09-22T14:52:21.272504+05:30 0x0000ba08 <DBG>  WebViewControl: Adding https://teams.microsoft.com/v2/worker/precompiled-telemetry-web-worker-cd271ef590da9309.js\?* to web intercept filter (source kinds: 0x00000005)
+2024-09-22T14:52:21.272504+05:30 0x0000ba08 <DBG>  WebViewControl: Adding https://teams.microsoft.com/v2/worker/precompiled-telemetry-web-worker-cd271ef590da9309.js to web intercept filter (source kinds: 0x00000005)
+2024-09-22T14:52:21.272504+05:30 0x0000ba08 <DBG>  WebViewControl: Adding https://teams.microsoft.com/v2/ to web intercept filter (source kinds: 0x00000005)
+2024-09-22T14:52:21.272504+05:30 0x0000ba08 <DBG>  WebViewControl: Adding https://teams.microsoft.com/v2/worker/precompiled-webrtc-web-worker-c8d28266a7158e3b.js to web intercept filter (source kinds: 0x00000005)
+2024-09-22T14:52:21.272504+05:30 0x0000ba08 <DBG>  WebViewControl: Adding https://teams.microsoft.com/v2/index.html\?* to web intercept filter (source kinds: 0x00000005)
+2024-09-22T14:52:21.272504+05:30 0x0000ba08 <DBG>  WebViewControl: Adding https://teams.microsoft.com/v2/index.html to web intercept filter (source kinds: 0x00000005)
+2024-09-22T14:52:21.272504+05:30 0x0000ba08 <DBG>  WebViewControl: Adding https://teams.microsoft.com/v2\?* to web intercept filter (source kinds: 0x00000005)
+2024-09-22T14:52:21.272504+05:30 0x0000ba08 <DBG>  WebViewControl: Adding https://teams.microsoft.com/v2 to web intercept filter (source kinds: 0x00000005)
+2024-09-22T14:52:21.272504+05:30 0x0000ba08 <DBG>  WebViewControl: Adding https://teams.live.com/desktop/* to web intercept filter (no source kinds)
+2024-09-22T14:52:21.272504+05:30 0x0000ba08 <DBG>  WebViewControl: Adding https://teams.live.com/maglev/custom-video-background/upload to web intercept filter (no source kinds)
+2024-09-22T14:52:21.272504+05:30 0x0000ba08 <DBG>  WebViewControl: Adding https://teams.live.com/maglev/custom-video-background/upload/v2 to web intercept filter (no source kinds)
+2024-09-22T14:52:21.272504+05:30 0x0000ba08 <DBG>  WebViewControl: Adding https://teams.live.com/maglev/custom-video-background/tenant-image\?* to web intercept filter (no source kinds)
+2024-09-22T14:52:21.541148+05:30 0x0000ba08 <INFO> WebViewScriptInjector: Script Injection Completed for id :1
+2024-09-22T14:52:21.541148+05:30 0x0000ba08 <DBG>  NonRenderingCore:  Teams Preload Script injected : true
+2024-09-22T14:52:21.549216+05:30 0x0000ba08 <INFO> WebViewScriptInjector: Script Injection Completed for id :2
+2024-09-22T14:52:21.549216+05:30 0x0000ba08 <INFO> NonRenderingCore: PIE Bindings injection result: true
+2024-09-22T14:52:21.549216+05:30 0x0000ba08 <DBG>  NonRenderingCore:  About to Start navigation
+2024-09-22T14:52:21.549216+05:30 0x0000ba08 <DBG>  WebViewControl: [NewWindowCreation] StartNavigate: 
+2024-09-22T14:52:21.562768+05:30 0x0000ba08 <INFO> CdpHandler::EventSubscriber: AddDevToolsProtocolEventReceived : Target.attachedToTarget
+2024-09-22T14:52:21.565870+05:30 0x0000ba08 <INFO> CdpHandler::EventSubscriber: AddDevToolsProtocolEventReceived : Log.entryAdded
+2024-09-22T14:52:21.565870+05:30 0x0000ba08 <INFO> CdpHandler::EventSubscriber: AddDevToolsProtocolEventReceived : Runtime.consoleAPICalled
+2024-09-22T14:52:21.565870+05:30 0x0000ba08 <INFO> CdpHandler::EventSubscriber: AddDevToolsProtocolEventReceived : Network.loadingFailed
+2024-09-22T14:52:21.565870+05:30 0x0000ba08 <DBG>  WebViewControlWin::OnNavigationStarting: Cancel=false
+2024-09-22T14:52:21.579046+05:30 0x0000ba08 <DBG>  CdpHandler: CallDevToolsProtocolMethod: Target.getTargets : SUCCESS
+2024-09-22T14:52:21.582427+05:30 0x0000ba08 <DBG>  CdpHandler: CallDevToolsProtocolMethod: Target.attachToTarget : SUCCESS
+2024-09-22T14:52:21.584905+05:30 0x0000ba08 <DBG>  CdpHandler: CallDevToolsProtocolMethod: Log.enable : SUCCESS
+2024-09-22T14:52:21.584905+05:30 0x0000ba08 <INFO> WebConsoleLogger: CdpMethod : Log.enable : true
+2024-09-22T14:52:21.584905+05:30 0x0000ba08 <DBG>  CdpHandler: CallDevToolsProtocolMethod: Runtime.enable : SUCCESS
+2024-09-22T14:52:21.584905+05:30 0x0000ba08 <INFO> WebConsoleLogger: CdpMethod : Runtime.enable : true
+2024-09-22T14:52:21.584905+05:30 0x0000ba08 <DBG>  CdpHandler: CallDevToolsProtocolMethod: Network.enable : SUCCESS
+2024-09-22T14:52:21.584905+05:30 0x0000ba08 <INFO> WebConsoleLogger: CdpMethod : Network.enable : true
+2024-09-22T14:52:21.588038+05:30 0x0000ba08 <DBG>  CdpHandler: CallDevToolsProtocolMethodForSession: Target.setAutoAttach : SUCCESS
+2024-09-22T14:52:22.042799+05:30 0x0000ba08 <INFO> TeamsCloud(life): received notifyLoaderStarted event from core window
+2024-09-22T14:52:22.051237+05:30 0x0000ba08 <INFO> NonRenderingCore: OnDomContentLoaded: Retrieving web client version
+2024-09-22T14:52:22.051237+05:30 0x0000ba08 <INFO> WebViewDevTools: GetLocalStorage: getting localStorage for origin=https://teams.live.com/
+2024-09-22T14:52:22.051237+05:30 0x0000ba08 <DBG>  WebViewControlWin::OnNavigationCompleted: Navigation successfully completed
+2024-09-22T14:52:22.051237+05:30 0x0000ba08 <INFO> TeamsCloud(life): PurgeCacheIfNeeded: Cache purge is not supported.
+2024-09-22T14:52:22.082655+05:30 0x0000ba08 <DBG>  CdpHandler: CallDevToolsProtocolMethod: DOMStorage.getDOMStorageItems : SUCCESS
+2024-09-22T14:52:22.082655+05:30 0x0000ba08 <INFO> WebViewDevTools: localStorage retrieved successfully
+2024-09-22T14:52:22.082655+05:30 0x0000ba08 <DBG>  GetLocalStorageProperty: Property with key='tmp.react-web-client.buildNumber' was retreived from local storage
+2024-09-22T14:52:22.082655+05:30 0x0000ba08 <INFO> WebClientVersionChecker: Web client version retrieved, version=24090101043
+2024-09-22T14:52:22.082655+05:30 0x0000ba08 <INFO> TeamsCloud(life): Web client is not older than the bundled one. current=24090101043, bundled=24080212008
+2024-09-22T14:52:22.677731+05:30 0x0000bde0 <INFO> Updater: CheckUpdate Update result: 1,223Error Message: The operation was canceled by the user.
+2024-09-22T14:52:22.677731+05:30 0x0000bde0 <ERR>  Scenario: shell_app_start_update [stop,failure] Error Message:The operation was canceled by the user.
+,ForceRestart:false,InstanceId:a0962006-5396-48ae-9020-07c6c8a21d15,Scenario.Mode:1,Scenario.Name:shell_app_start_update,Scenario.Status:failure,Scenario.Step:stop,Trigger:UpdaterStart,activationManager:0,delta:2769,elapsed:3410,elapsedSinceProcessStart:3866,eventpdclevel:2,previousStep:start,sequence:1,stepDelta:2769
+2024-09-22T14:52:23.848787+05:30 0x0000ba08 <INFO> OsUtilsImpl: GetSystemCpuInfo: processorArch: amd64, pageSize: 4,096, logicalProcessorCount: 16, processorCoreCount: 8, physicalProcessorPackageCount: 1
+CpuCoreInfo - model: AMD Ryzen 7 5700U with Radeon Graphics         , speed (MHz): 1,797, times: CpuTime - user_mode (ms): 7,605,734, sys_mode (ms): 13,192,421, idle (ms): 285,459,546, irq (ms): 772,890
+CpuCoreInfo - model: AMD Ryzen 7 5700U with Radeon Graphics         , speed (MHz): 1,797, times: CpuTime - user_mode (ms): 7,035,281, sys_mode (ms): 7,882,515, idle (ms): 291,340,250, irq (ms): 135,218
+CpuCoreInfo - model: AMD Ryzen 7 5700U with Radeon Graphics         , speed (MHz): 1,797, times: CpuTime - user_mode (ms): 10,244,171, sys_mode (ms): 8,819,765, idle (ms): 287,193,843, irq (ms): 146,906
+CpuCoreInfo - model: AMD Ryzen 7 5700U with Radeon Graphics         , speed (MHz): 1,797, times: CpuTime - user_mode (ms): 7,505,640, sys_mode (ms): 6,292,671, idle (ms): 292,459,625, irq (ms): 98,828
+CpuCoreInfo - model: AMD Ryzen 7 5700U with Radeon Graphics         , speed (MHz): 1,797, times: CpuTime - user_mode (ms): 5,438,609, sys_mode (ms): 3,176,218, idle (ms): 297,643,109, irq (ms): 71,703
+CpuCoreInfo - model: AMD Ryzen 7 5700U with Radeon Graphics         , speed (MHz): 1,797, times: CpuTime - user_mode (ms): 4,371,921, sys_mode (ms): 2,299,328, idle (ms): 299,586,734, irq (ms): 50,000
+CpuCoreInfo - model: AMD Ryzen 7 5700U with Radeon Graphics         , speed (MHz): 1,797, times: CpuTime - user_mode (ms): 3,479,500, sys_mode (ms): 2,090,359, idle (ms): 300,688,109, irq (ms): 33,593
+CpuCoreInfo - model: AMD Ryzen 7 5700U with Radeon Graphics         , speed (MHz): 1,797, times: CpuTime - user_mode (ms): 2,775,703, sys_mode (ms): 1,444,000, idle (ms): 302,038,234, irq (ms): 21,812
+CpuCoreInfo - model: AMD Ryzen 7 5700U with Radeon Graphics         , speed (MHz): 1,797, times: CpuTime - user_mode (ms): 1,593,343, sys_mode (ms): 1,568,390, idle (ms): 303,096,171, irq (ms): 27,046
+CpuCoreInfo - model: AMD Ryzen 7 5700U with Radeon Graphics         , speed (MHz): 1,797, times: CpuTime - user_mode (ms): 1,023,359, sys_mode (ms): 788,453, idle (ms): 304,446,234, irq (ms): 12,953
+CpuCoreInfo - model: AMD Ryzen 7 5700U with Radeon Graphics         , speed (MHz): 1,797, times: CpuTime - user_mode (ms): 1,096,625, sys_mode (ms): 1,017,187, idle (ms): 304,144,125, irq (ms): 11,046
+CpuCoreInfo - model: AMD Ryzen 7 5700U with Radeon Graphics         , speed (MHz): 1,797, times: CpuTime - user_mode (ms): 688,125, sys_mode (ms): 457,843, idle (ms): 305,112,015, irq (ms): 4,890
+CpuCoreInfo - model: AMD Ryzen 7 5700U with Radeon Graphics         , speed (MHz): 1,797, times: CpuTime - user_mode (ms): 684,625, sys_mode (ms): 706,953, idle (ms): 304,866,328, irq (ms): 7,187
+CpuCoreInfo - model: AMD Ryzen 7 5700U with Radeon Graphics         , speed (MHz): 1,797, times: CpuTime - user_mode (ms): 421,765, sys_mode (ms): 479,062, idle (ms): 305,357,218, irq (ms): 5,187
+CpuCoreInfo - model: AMD Ryzen 7 5700U with Radeon Graphics         , speed (MHz): 1,797, times: CpuTime - user_mode (ms): 571,828, sys_mode (ms): 532,687, idle (ms): 305,153,484, irq (ms): 5,453
+CpuCoreInfo - model: AMD Ryzen 7 5700U with Radeon Graphics         , speed (MHz): 1,797, times: CpuTime - user_mode (ms): 632,343, sys_mode (ms): 9,585,781, idle (ms): 296,039,796, irq (ms): 74,875
+2024-09-22T14:52:23.951525+05:30 0x0000ba08 <INFO> Telemetry: Received [1] context payloads from PIE.
+2024-09-22T14:52:23.951525+05:30 0x0000ba08 <INFO> Telemetry: (AppInfo.Locale , en-gb)
+2024-09-22T14:52:23.951525+05:30 0x0000ba08 <INFO> Telemetry: Received [1] context payloads from PIE.
+2024-09-22T14:52:23.951525+05:30 0x0000ba08 <INFO> Telemetry: (AppInfo.Version , 49/24090101043)
+2024-09-22T14:52:23.951525+05:30 0x0000ba08 <INFO> Telemetry: Received [1] context payloads from PIE.
+2024-09-22T14:52:23.951525+05:30 0x0000ba08 <INFO> Telemetry: (AppInfo.VersionNew , 49/24090101043,24231.512.3106.6573)
+2024-09-22T14:52:23.951525+05:30 0x0000ba08 <INFO> Telemetry: Received [1] context payloads from PIE.
+2024-09-22T14:52:23.951525+05:30 0x0000ba08 <INFO> Telemetry: (AppInfo.ReactAppVersion , 49/24090101043)
+2024-09-22T14:52:23.951525+05:30 0x0000ba08 <INFO> Telemetry: Received [1] context payloads from PIE.
+2024-09-22T14:52:23.951525+05:30 0x0000ba08 <INFO> Telemetry: (AppInfo.ExperienceName , react-web-client)
+2024-09-22T14:52:23.951525+05:30 0x0000ba08 <INFO> Telemetry: Received [1] context payloads from PIE.
+2024-09-22T14:52:23.951525+05:30 0x0000ba08 <INFO> Telemetry: (UserInfo.Language , en-GB)
+2024-09-22T14:52:23.951525+05:30 0x0000ba08 <INFO> Telemetry: Received [1] context payloads from PIE.
+2024-09-22T14:52:23.951525+05:30 0x0000ba08 <INFO> Telemetry: (userAgent , Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36 Edg/128.0.0.0 Teams/24231.512.3106.6573/49)
+2024-09-22T14:52:23.951525+05:30 0x0000ba08 <INFO> Telemetry: Received [1] context payloads from PIE.
+2024-09-22T14:52:23.951525+05:30 0x0000ba08 <INFO> Telemetry: (Window.Type , ReactWebClient)
+2024-09-22T14:52:23.957536+05:30 0x0000ba08 <INFO> Telemetry: Received [1] context payloads from PIE.
+2024-09-22T14:52:23.957536+05:30 0x0000ba08 <INFO> Telemetry: (UserInfo.UserLocale , en-GB)
+2024-09-22T14:52:23.957536+05:30 0x0000ba08 <INFO> Telemetry: Received [1] context payloads from PIE.
+2024-09-22T14:52:23.957536+05:30 0x0000ba08 <INFO> Telemetry: (AppInfo.ExpRolloutIds , )
+2024-09-22T14:52:23.957536+05:30 0x0000ba08 <INFO> Telemetry: Received [1] context payloads from PIE.
+2024-09-22T14:52:23.957536+05:30 0x0000ba08 <INFO> Telemetry: (UserInfo.LicenseType , )
+2024-09-22T14:52:23.957536+05:30 0x0000ba08 <INFO> Telemetry: Received [1] context payloads from PIE.
+2024-09-22T14:52:23.957536+05:30 0x0000ba08 <INFO> Telemetry: (Tenant.SmbTenantSizeSegment , )
+2024-09-22T14:52:23.957536+05:30 0x0000ba08 <INFO> Telemetry: Received [1] context payloads from PIE.
+2024-09-22T14:52:23.957536+05:30 0x0000ba08 <INFO> Telemetry: (UserInfo.Id , )
+2024-09-22T14:52:24.106939+05:30 0x0000ba08 <INFO> OsUtilsImpl: GetLocaleInfoW: en-IN , dd-MM-yyyy , dd MMMM yyyy , Unknown, HH:mm , HH:mm:ss , 1 , 0
+2024-09-22T14:52:24.120587+05:30 0x0000ba08 <INFO> Telemetry: Received [1] context payloads from PIE.
+2024-09-22T14:52:24.120587+05:30 0x0000ba08 <INFO> Telemetry: (AppInfo.NetworkState , Online)
+2024-09-22T14:52:24.120587+05:30 0x0000ba08 <INFO> WebClientStatesModule: operator (): current=Initializing, new_state=Active
+2024-09-22T14:52:24.120587+05:30 0x0000ba08 <DBG>  WebClientStateTracker: OnWebClientStateChange Registering highest new client state: Active
+2024-09-22T14:52:24.120587+05:30 0x0000ba08 <INFO> ActivityBasedUpdater: New web client state: Active, power state: Resumed
+2024-09-22T14:52:24.120587+05:30 0x0000ba08 <INFO> SuspendEventInterceptor: UnblockEvent Attempting to unblock OS suspend
+2024-09-22T14:52:24.120587+05:30 0x0000ba08 <INFO> ScreenLockEventInterceptor: UnblockEvent Attempting to unblock OS screen lock
+2024-09-22T14:52:24.128097+05:30 0x0000ba08 <INFO> RegisterCrashMetadata: RegisterCrashMetadata adding metadata: AppInfo_ClientState metadata value Active
+2024-09-22T14:52:24.128097+05:30 0x0000ba08 <INFO> TeamsWebView: App in active use.
+2024-09-22T14:52:24.392492+05:30 0x0000ba08 <INFO> auth::AuthenticationService::InitiateMachineAccountDiscovery: (cc082683-2588-48f5-aaae-84545655f04f) Start
+2024-09-22T14:52:24.392492+05:30 0x0000ba08 <INFO> auth::OneAuthProvider::Initialize: (cc082683-2588-48f5-aaae-84545655f04f) Start
+2024-09-22T14:52:24.392492+05:30 0x0000ba08 <INFO> auth::OneAuthProvider::Initialize: (cc082683-2588-48f5-aaae-84545655f04f) Initialize: cloud_type_: 0
+2024-09-22T14:52:24.392492+05:30 0x0000ba08 <INFO> auth::OneAuthProvider::Initialize: (cc082683-2588-48f5-aaae-84545655f04f) Initialize: is_aad_config_enabled: true
+2024-09-22T14:52:24.392492+05:30 0x0000ba08 <INFO> auth::OneAuthProvider::Initialize: (cc082683-2588-48f5-aaae-84545655f04f) Initialize: is_msa_provider_enabled: true
+2024-09-22T14:52:24.401420+05:30 0x0000ba08 <INFO> auth::OneAuthProvider::Initialize: (cc082683-2588-48f5-aaae-84545655f04f) OneAuth Audience is: 3
+2024-09-22T14:52:24.405429+05:30 0x0000ba08 <INFO> GetLaunchCloudType: GetLaunchCloudType: active_users[0].cloudType = 0
+2024-09-22T14:52:24.405429+05:30 0x0000ba08 <INFO> auth::OneAuthProvider::Initialize: (cc082683-2588-48f5-aaae-84545655f04f) End
+2024-09-22T14:52:24.405429+05:30 0x0000ba08 <INFO> auth::OneAuthDiscoverMachineAccounts: (cc082683-2588-48f5-aaae-84545655f04f) Start
+2024-09-22T14:52:24.405429+05:30 0x0000ba08 <DBG>  auth::AuthenticationService::AcquireEncryptionKey: (141f6ed4-53ac-483d-8453-a70cf781a001) Exported key found
+2024-09-22T14:52:24.418794+05:30 0x0000ba08 <INFO> Telemetry: Received [1] context payloads from PIE.
+2024-09-22T14:52:24.418794+05:30 0x0000ba08 <INFO> Telemetry: (userId , ffe6b3f2063c3f14)
+2024-09-22T14:52:24.418794+05:30 0x0000ba08 <INFO> Telemetry: Received [1] context payloads from PIE.
+2024-09-22T14:52:24.418794+05:30 0x0000ba08 <INFO> Telemetry: (UserInfo.Id , 00000000-0000-0000-ffe6-b3f2063c3f14)
+2024-09-22T14:52:24.418794+05:30 0x0000ba08 <INFO> Telemetry: Received [1] context payloads from PIE.
+2024-09-22T14:52:24.418794+05:30 0x0000ba08 <INFO> Telemetry: (UserInfo.TenantId , 9188040d-6c67-4c5b-b112-36a304b66dad)
+2024-09-22T14:52:24.418794+05:30 0x0000ba08 <INFO> Telemetry: Received [1] context payloads from PIE.
+2024-09-22T14:52:24.418794+05:30 0x0000ba08 <INFO> Telemetry: (UserInfo.Type , MsaLife)
+2024-09-22T14:52:24.418794+05:30 0x0000ba08 <INFO> Telemetry: Received [1] context payloads from PIE.
+2024-09-22T14:52:24.418794+05:30 0x0000ba08 <INFO> Telemetry: (UserInfo.Role , Member)
+2024-09-22T14:52:24.418794+05:30 0x0000ba08 <INFO> Telemetry: Received [1] context payloads from PIE.
+2024-09-22T14:52:24.418794+05:30 0x0000ba08 <INFO> Telemetry: (UserInfo.Region , NoRegionFoundInSkypeService)
+2024-09-22T14:52:24.985549+05:30 0x0000ba08 <INFO> WindowControlsModule: Defining custom frame theme main (Dark)
+2024-09-22T14:52:24.985549+05:30 0x0000ba08 <DBG>  CustomFrameConfiguration: Looking up 'default_dark'
+2024-09-22T14:52:24.985549+05:30 0x0000ba08 <DBG>  CustomFrameConfiguration: Not found
+2024-09-22T14:52:24.985549+05:30 0x0000ba08 <DBG>  CustomFrameConfiguration: Not found, falling back to hardcoded CustomFrameTheme{button_size=UISizeLogical{width=44; height=40}; padding=UISizeLogical{width=0; height=0}; close_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#c4314b; mouse_down=#8e192ee6}; foreground=CustomFrameRendererColors{inactive=#5c5c5c; normal=#5c5c5c; mouse_over=#ffffff; mouse_down=#ffffff}}; minmax_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#ffffff1a; mouse_down=#ffffff0d}; foreground=CustomFrameRendererColors{inactive=#5c5c5c; normal=#5c5c5c; mouse_over=#999de5; mouse_down=#999de5}}}
+2024-09-22T14:52:24.985549+05:30 0x0000ba08 <INFO> CustomFrameConfiguration: Adding 'main_dark': CustomFrameTheme{button_size=UISizeLogical{width=44; height=48}; padding=UISizeLogical{width=0; height=0}; close_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#c4314b; mouse_down=#8e192ee6}; foreground=CustomFrameRendererColors{inactive=#5c5c5c; normal=#5c5c5c; mouse_over=#ffffff; mouse_down=#ffffff}}; minmax_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#ffffff1a; mouse_down=#ffffff0d}; foreground=CustomFrameRendererColors{inactive=#5c5c5c; normal=#5c5c5c; mouse_over=#999de5; mouse_down=#999de5}}}
+2024-09-22T14:52:24.985549+05:30 0x0000ba08 <INFO> WindowControlsModule: Defining custom frame theme main (Light)
+2024-09-22T14:52:24.985549+05:30 0x0000ba08 <DBG>  CustomFrameConfiguration: Looking up 'default_light'
+2024-09-22T14:52:24.985549+05:30 0x0000ba08 <DBG>  CustomFrameConfiguration: Not found
+2024-09-22T14:52:24.985549+05:30 0x0000ba08 <DBG>  CustomFrameConfiguration: Not found, falling back to hardcoded CustomFrameTheme{button_size=UISizeLogical{width=44; height=40}; padding=UISizeLogical{width=0; height=0}; close_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#c4314b; mouse_down=#8e192ee6}; foreground=CustomFrameRendererColors{inactive=#c7c7c7; normal=#c7c7c7; mouse_over=#ffffff; mouse_down=#ffffff}}; minmax_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#ffffffa6; mouse_down=#ffffff80}; foreground=CustomFrameRendererColors{inactive=#c7c7c7; normal=#c7c7c7; mouse_over=#6264a7; mouse_down=#6264a7}}}
+2024-09-22T14:52:24.985549+05:30 0x0000ba08 <INFO> CustomFrameConfiguration: Adding 'main_light': CustomFrameTheme{button_size=UISizeLogical{width=44; height=48}; padding=UISizeLogical{width=0; height=0}; close_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#c4314b; mouse_down=#8e192ee6}; foreground=CustomFrameRendererColors{inactive=#c7c7c7; normal=#c7c7c7; mouse_over=#ffffff; mouse_down=#ffffff}}; minmax_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#ffffffa6; mouse_down=#ffffff80}; foreground=CustomFrameRendererColors{inactive=#c7c7c7; normal=#c7c7c7; mouse_over=#6264a7; mouse_down=#6264a7}}}
+2024-09-22T14:52:24.985549+05:30 0x0000ba08 <INFO> WindowControlsModule: Defining custom frame theme main (HighContrast)
+2024-09-22T14:52:24.985549+05:30 0x0000ba08 <DBG>  CustomFrameConfiguration: Looking up 'default_contrast'
+2024-09-22T14:52:24.985549+05:30 0x0000ba08 <DBG>  CustomFrameConfiguration: Not found
+2024-09-22T14:52:24.985549+05:30 0x0000ba08 <DBG>  CustomFrameConfiguration: Not found, falling back to hardcoded CustomFrameTheme{button_size=UISizeLogical{width=44; height=40}; padding=UISizeLogical{width=2; height=2}; close_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#1aebff; mouse_down=#1aebff}; foreground=CustomFrameRendererColors{inactive=#3ff23f; normal=#3ff23f; mouse_over=#000000; mouse_down=#000000}}; minmax_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#1aebff; mouse_down=#1aebff}; foreground=CustomFrameRendererColors{inactive=#3ff23f; normal=#3ff23f; mouse_over=#000000; mouse_down=#000000}}}
+2024-09-22T14:52:24.985549+05:30 0x0000ba08 <INFO> CustomFrameConfiguration: Adding 'main_contrast': CustomFrameTheme{button_size=UISizeLogical{width=44; height=48}; padding=UISizeLogical{width=2; height=2}; close_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#1aebff; mouse_down=#1aebff}; foreground=CustomFrameRendererColors{inactive=#3ff23f; normal=#3ff23f; mouse_over=#000000; mouse_down=#000000}}; minmax_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#1aebff; mouse_down=#1aebff}; foreground=CustomFrameRendererColors{inactive=#3ff23f; normal=#3ff23f; mouse_over=#000000; mouse_down=#000000}}}
+2024-09-22T14:52:24.985549+05:30 0x0000ba08 <INFO> WindowControlsModule: Defining custom frame theme default (Dark)
+2024-09-22T14:52:24.985549+05:30 0x0000ba08 <DBG>  CustomFrameConfiguration: Looking up 'default_dark'
+2024-09-22T14:52:24.985549+05:30 0x0000ba08 <DBG>  CustomFrameConfiguration: Not found
+2024-09-22T14:52:24.985549+05:30 0x0000ba08 <DBG>  CustomFrameConfiguration: Not found, falling back to hardcoded CustomFrameTheme{button_size=UISizeLogical{width=44; height=40}; padding=UISizeLogical{width=0; height=0}; close_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#c4314b; mouse_down=#8e192ee6}; foreground=CustomFrameRendererColors{inactive=#5c5c5c; normal=#5c5c5c; mouse_over=#ffffff; mouse_down=#ffffff}}; minmax_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#ffffff1a; mouse_down=#ffffff0d}; foreground=CustomFrameRendererColors{inactive=#5c5c5c; normal=#5c5c5c; mouse_over=#999de5; mouse_down=#999de5}}}
+2024-09-22T14:52:24.985549+05:30 0x0000ba08 <INFO> CustomFrameConfiguration: Adding 'default_dark': CustomFrameTheme{button_size=UISizeLogical{width=44; height=32}; padding=UISizeLogical{width=0; height=0}; close_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#c4314b; mouse_down=#8e192ee6}; foreground=CustomFrameRendererColors{inactive=#5c5c5c; normal=#5c5c5c; mouse_over=#ffffff; mouse_down=#ffffff}}; minmax_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#ffffff1a; mouse_down=#ffffff0d}; foreground=CustomFrameRendererColors{inactive=#5c5c5c; normal=#5c5c5c; mouse_over=#999de5; mouse_down=#999de5}}}
+2024-09-22T14:52:24.985549+05:30 0x0000ba08 <INFO> WindowControlsModule: Defining custom frame theme default (Light)
+2024-09-22T14:52:24.985549+05:30 0x0000ba08 <DBG>  CustomFrameConfiguration: Looking up 'default_light'
+2024-09-22T14:52:24.985549+05:30 0x0000ba08 <DBG>  CustomFrameConfiguration: Not found
+2024-09-22T14:52:24.985549+05:30 0x0000ba08 <DBG>  CustomFrameConfiguration: Not found, falling back to hardcoded CustomFrameTheme{button_size=UISizeLogical{width=44; height=40}; padding=UISizeLogical{width=0; height=0}; close_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#c4314b; mouse_down=#8e192ee6}; foreground=CustomFrameRendererColors{inactive=#c7c7c7; normal=#c7c7c7; mouse_over=#ffffff; mouse_down=#ffffff}}; minmax_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#ffffffa6; mouse_down=#ffffff80}; foreground=CustomFrameRendererColors{inactive=#c7c7c7; normal=#c7c7c7; mouse_over=#6264a7; mouse_down=#6264a7}}}
+2024-09-22T14:52:24.985549+05:30 0x0000ba08 <INFO> CustomFrameConfiguration: Adding 'default_light': CustomFrameTheme{button_size=UISizeLogical{width=44; height=32}; padding=UISizeLogical{width=0; height=0}; close_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#c4314b; mouse_down=#8e192ee6}; foreground=CustomFrameRendererColors{inactive=#c7c7c7; normal=#c7c7c7; mouse_over=#ffffff; mouse_down=#ffffff}}; minmax_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#ffffffa6; mouse_down=#ffffff80}; foreground=CustomFrameRendererColors{inactive=#c7c7c7; normal=#c7c7c7; mouse_over=#6264a7; mouse_down=#6264a7}}}
+2024-09-22T14:52:24.985549+05:30 0x0000ba08 <INFO> WindowControlsModule: Defining custom frame theme default (HighContrast)
+2024-09-22T14:52:24.985549+05:30 0x0000ba08 <DBG>  CustomFrameConfiguration: Looking up 'default_contrast'
+2024-09-22T14:52:24.985549+05:30 0x0000ba08 <DBG>  CustomFrameConfiguration: Not found
+2024-09-22T14:52:24.985549+05:30 0x0000ba08 <DBG>  CustomFrameConfiguration: Not found, falling back to hardcoded CustomFrameTheme{button_size=UISizeLogical{width=44; height=40}; padding=UISizeLogical{width=2; height=2}; close_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#1aebff; mouse_down=#1aebff}; foreground=CustomFrameRendererColors{inactive=#3ff23f; normal=#3ff23f; mouse_over=#000000; mouse_down=#000000}}; minmax_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#1aebff; mouse_down=#1aebff}; foreground=CustomFrameRendererColors{inactive=#3ff23f; normal=#3ff23f; mouse_over=#000000; mouse_down=#000000}}}
+2024-09-22T14:52:24.985549+05:30 0x0000ba08 <INFO> CustomFrameConfiguration: Adding 'default_contrast': CustomFrameTheme{button_size=UISizeLogical{width=44; height=32}; padding=UISizeLogical{width=2; height=2}; close_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#1aebff; mouse_down=#1aebff}; foreground=CustomFrameRendererColors{inactive=#3ff23f; normal=#3ff23f; mouse_over=#000000; mouse_down=#000000}}; minmax_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#1aebff; mouse_down=#1aebff}; foreground=CustomFrameRendererColors{inactive=#3ff23f; normal=#3ff23f; mouse_over=#000000; mouse_down=#000000}}}
+2024-09-22T14:52:24.985549+05:30 0x0000ba08 <INFO> WindowControlsModule: Defining custom frame theme tflMain (Dark)
+2024-09-22T14:52:24.985549+05:30 0x0000ba08 <DBG>  CustomFrameConfiguration: Looking up 'default_dark'
+2024-09-22T14:52:24.985549+05:30 0x0000ba08 <DBG>  CustomFrameConfiguration: Found: CustomFrameTheme{button_size=UISizeLogical{width=44; height=32}; padding=UISizeLogical{width=0; height=0}; close_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#c4314b; mouse_down=#8e192ee6}; foreground=CustomFrameRendererColors{inactive=#5c5c5c; normal=#5c5c5c; mouse_over=#ffffff; mouse_down=#ffffff}}; minmax_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#ffffff1a; mouse_down=#ffffff0d}; foreground=CustomFrameRendererColors{inactive=#5c5c5c; normal=#5c5c5c; mouse_over=#999de5; mouse_down=#999de5}}}
+2024-09-22T14:52:24.992058+05:30 0x0000ba08 <INFO> CustomFrameConfiguration: Adding 'tflMain_dark': CustomFrameTheme{button_size=UISizeLogical{width=44; height=61}; padding=UISizeLogical{width=8; height=0}; close_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#c4314b; mouse_down=#8e192ee6}; foreground=CustomFrameRendererColors{inactive=#5c5c5c; normal=#5c5c5c; mouse_over=#ffffff; mouse_down=#ffffff}}; minmax_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#ffffff1a; mouse_down=#ffffff0d}; foreground=CustomFrameRendererColors{inactive=#5c5c5c; normal=#5c5c5c; mouse_over=#999de5; mouse_down=#999de5}}}
+2024-09-22T14:52:24.992058+05:30 0x0000ba08 <INFO> WindowControlsModule: Defining custom frame theme tflMain (Light)
+2024-09-22T14:52:24.992058+05:30 0x0000ba08 <DBG>  CustomFrameConfiguration: Looking up 'default_light'
+2024-09-22T14:52:24.992058+05:30 0x0000ba08 <DBG>  CustomFrameConfiguration: Found: CustomFrameTheme{button_size=UISizeLogical{width=44; height=32}; padding=UISizeLogical{width=0; height=0}; close_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#c4314b; mouse_down=#8e192ee6}; foreground=CustomFrameRendererColors{inactive=#c7c7c7; normal=#c7c7c7; mouse_over=#ffffff; mouse_down=#ffffff}}; minmax_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#ffffffa6; mouse_down=#ffffff80}; foreground=CustomFrameRendererColors{inactive=#c7c7c7; normal=#c7c7c7; mouse_over=#6264a7; mouse_down=#6264a7}}}
+2024-09-22T14:52:24.992058+05:30 0x0000ba08 <INFO> CustomFrameConfiguration: Adding 'tflMain_light': CustomFrameTheme{button_size=UISizeLogical{width=44; height=61}; padding=UISizeLogical{width=8; height=0}; close_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#c4314b; mouse_down=#8e192ee6}; foreground=CustomFrameRendererColors{inactive=#c7c7c7; normal=#c7c7c7; mouse_over=#ffffff; mouse_down=#ffffff}}; minmax_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#ffffffa6; mouse_down=#ffffff80}; foreground=CustomFrameRendererColors{inactive=#c7c7c7; normal=#c7c7c7; mouse_over=#6264a7; mouse_down=#6264a7}}}
+2024-09-22T14:52:24.992058+05:30 0x0000ba08 <INFO> WindowControlsModule: Defining custom frame theme tflMain (HighContrast)
+2024-09-22T14:52:24.992058+05:30 0x0000ba08 <DBG>  CustomFrameConfiguration: Looking up 'default_contrast'
+2024-09-22T14:52:24.992058+05:30 0x0000ba08 <DBG>  CustomFrameConfiguration: Found: CustomFrameTheme{button_size=UISizeLogical{width=44; height=32}; padding=UISizeLogical{width=2; height=2}; close_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#1aebff; mouse_down=#1aebff}; foreground=CustomFrameRendererColors{inactive=#3ff23f; normal=#3ff23f; mouse_over=#000000; mouse_down=#000000}}; minmax_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#1aebff; mouse_down=#1aebff}; foreground=CustomFrameRendererColors{inactive=#3ff23f; normal=#3ff23f; mouse_over=#000000; mouse_down=#000000}}}
+2024-09-22T14:52:24.992058+05:30 0x0000ba08 <INFO> CustomFrameConfiguration: Adding 'tflMain_contrast': CustomFrameTheme{button_size=UISizeLogical{width=44; height=61}; padding=UISizeLogical{width=2; height=2}; close_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#1aebff; mouse_down=#1aebff}; foreground=CustomFrameRendererColors{inactive=#3ff23f; normal=#3ff23f; mouse_over=#000000; mouse_down=#000000}}; minmax_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#1aebff; mouse_down=#1aebff}; foreground=CustomFrameRendererColors{inactive=#3ff23f; normal=#3ff23f; mouse_over=#000000; mouse_down=#000000}}}
+2024-09-22T14:52:24.992058+05:30 0x0000ba08 <INFO> WindowControlsModule: Defining custom frame theme tflDefault (Dark)
+2024-09-22T14:52:24.993597+05:30 0x0000ba08 <DBG>  CustomFrameConfiguration: Looking up 'default_dark'
+2024-09-22T14:52:24.993597+05:30 0x0000ba08 <DBG>  CustomFrameConfiguration: Found: CustomFrameTheme{button_size=UISizeLogical{width=44; height=32}; padding=UISizeLogical{width=0; height=0}; close_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#c4314b; mouse_down=#8e192ee6}; foreground=CustomFrameRendererColors{inactive=#5c5c5c; normal=#5c5c5c; mouse_over=#ffffff; mouse_down=#ffffff}}; minmax_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#ffffff1a; mouse_down=#ffffff0d}; foreground=CustomFrameRendererColors{inactive=#5c5c5c; normal=#5c5c5c; mouse_over=#999de5; mouse_down=#999de5}}}
+2024-09-22T14:52:24.993597+05:30 0x0000ba08 <INFO> CustomFrameConfiguration: Adding 'tflDefault_dark': CustomFrameTheme{button_size=UISizeLogical{width=44; height=61}; padding=UISizeLogical{width=0; height=0}; close_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#c4314b; mouse_down=#8e192ee6}; foreground=CustomFrameRendererColors{inactive=#5c5c5c; normal=#5c5c5c; mouse_over=#ffffff; mouse_down=#ffffff}}; minmax_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#ffffff1a; mouse_down=#ffffff0d}; foreground=CustomFrameRendererColors{inactive=#5c5c5c; normal=#5c5c5c; mouse_over=#999de5; mouse_down=#999de5}}}
+2024-09-22T14:52:24.993597+05:30 0x0000ba08 <INFO> WindowControlsModule: Defining custom frame theme tflDefault (Light)
+2024-09-22T14:52:24.993597+05:30 0x0000ba08 <DBG>  CustomFrameConfiguration: Looking up 'default_light'
+2024-09-22T14:52:24.993597+05:30 0x0000ba08 <DBG>  CustomFrameConfiguration: Found: CustomFrameTheme{button_size=UISizeLogical{width=44; height=32}; padding=UISizeLogical{width=0; height=0}; close_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#c4314b; mouse_down=#8e192ee6}; foreground=CustomFrameRendererColors{inactive=#c7c7c7; normal=#c7c7c7; mouse_over=#ffffff; mouse_down=#ffffff}}; minmax_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#ffffffa6; mouse_down=#ffffff80}; foreground=CustomFrameRendererColors{inactive=#c7c7c7; normal=#c7c7c7; mouse_over=#6264a7; mouse_down=#6264a7}}}
+2024-09-22T14:52:24.993597+05:30 0x0000ba08 <INFO> CustomFrameConfiguration: Adding 'tflDefault_light': CustomFrameTheme{button_size=UISizeLogical{width=44; height=61}; padding=UISizeLogical{width=0; height=0}; close_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#c4314b; mouse_down=#8e192ee6}; foreground=CustomFrameRendererColors{inactive=#c7c7c7; normal=#c7c7c7; mouse_over=#ffffff; mouse_down=#ffffff}}; minmax_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#ffffffa6; mouse_down=#ffffff80}; foreground=CustomFrameRendererColors{inactive=#c7c7c7; normal=#c7c7c7; mouse_over=#6264a7; mouse_down=#6264a7}}}
+2024-09-22T14:52:24.993597+05:30 0x0000ba08 <INFO> WindowControlsModule: Defining custom frame theme tflDefault (HighContrast)
+2024-09-22T14:52:24.993597+05:30 0x0000ba08 <DBG>  CustomFrameConfiguration: Looking up 'default_contrast'
+2024-09-22T14:52:24.993597+05:30 0x0000ba08 <DBG>  CustomFrameConfiguration: Found: CustomFrameTheme{button_size=UISizeLogical{width=44; height=32}; padding=UISizeLogical{width=2; height=2}; close_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#1aebff; mouse_down=#1aebff}; foreground=CustomFrameRendererColors{inactive=#3ff23f; normal=#3ff23f; mouse_over=#000000; mouse_down=#000000}}; minmax_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#1aebff; mouse_down=#1aebff}; foreground=CustomFrameRendererColors{inactive=#3ff23f; normal=#3ff23f; mouse_over=#000000; mouse_down=#000000}}}
+2024-09-22T14:52:24.993597+05:30 0x0000ba08 <INFO> CustomFrameConfiguration: Adding 'tflDefault_contrast': CustomFrameTheme{button_size=UISizeLogical{width=44; height=61}; padding=UISizeLogical{width=2; height=2}; close_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#1aebff; mouse_down=#1aebff}; foreground=CustomFrameRendererColors{inactive=#3ff23f; normal=#3ff23f; mouse_over=#000000; mouse_down=#000000}}; minmax_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#1aebff; mouse_down=#1aebff}; foreground=CustomFrameRendererColors{inactive=#3ff23f; normal=#3ff23f; mouse_over=#000000; mouse_down=#000000}}}
+2024-09-22T14:52:24.993597+05:30 0x0000ba08 <INFO> WindowControlsModule: Defining custom frame theme mainClassic (Dark)
+2024-09-22T14:52:24.993597+05:30 0x0000ba08 <DBG>  CustomFrameConfiguration: Looking up 'default_dark'
+2024-09-22T14:52:24.993597+05:30 0x0000ba08 <DBG>  CustomFrameConfiguration: Found: CustomFrameTheme{button_size=UISizeLogical{width=44; height=32}; padding=UISizeLogical{width=0; height=0}; close_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#c4314b; mouse_down=#8e192ee6}; foreground=CustomFrameRendererColors{inactive=#5c5c5c; normal=#5c5c5c; mouse_over=#ffffff; mouse_down=#ffffff}}; minmax_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#ffffff1a; mouse_down=#ffffff0d}; foreground=CustomFrameRendererColors{inactive=#5c5c5c; normal=#5c5c5c; mouse_over=#999de5; mouse_down=#999de5}}}
+2024-09-22T14:52:24.993597+05:30 0x0000ba08 <INFO> CustomFrameConfiguration: Adding 'mainClassic_dark': CustomFrameTheme{button_size=UISizeLogical{width=44; height=48}; padding=UISizeLogical{width=0; height=0}; close_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#c4314b; mouse_down=#8e192ee6}; foreground=CustomFrameRendererColors{inactive=#5c5c5c; normal=#5c5c5c; mouse_over=#ffffff; mouse_down=#ffffff}}; minmax_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#ffffff1a; mouse_down=#ffffff0d}; foreground=CustomFrameRendererColors{inactive=#5c5c5c; normal=#5c5c5c; mouse_over=#999de5; mouse_down=#999de5}}}
+2024-09-22T14:52:24.993597+05:30 0x0000ba08 <INFO> WindowControlsModule: Defining custom frame theme mainClassic (Light)
+2024-09-22T14:52:24.993597+05:30 0x0000ba08 <DBG>  CustomFrameConfiguration: Looking up 'default_light'
+2024-09-22T14:52:24.993597+05:30 0x0000ba08 <DBG>  CustomFrameConfiguration: Found: CustomFrameTheme{button_size=UISizeLogical{width=44; height=32}; padding=UISizeLogical{width=0; height=0}; close_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#c4314b; mouse_down=#8e192ee6}; foreground=CustomFrameRendererColors{inactive=#c7c7c7; normal=#c7c7c7; mouse_over=#ffffff; mouse_down=#ffffff}}; minmax_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#ffffffa6; mouse_down=#ffffff80}; foreground=CustomFrameRendererColors{inactive=#c7c7c7; normal=#c7c7c7; mouse_over=#6264a7; mouse_down=#6264a7}}}
+2024-09-22T14:52:24.993597+05:30 0x0000ba08 <INFO> CustomFrameConfiguration: Adding 'mainClassic_light': CustomFrameTheme{button_size=UISizeLogical{width=44; height=48}; padding=UISizeLogical{width=0; height=0}; close_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#44479199; normal=#44479199; mouse_over=#c4314b; mouse_down=#a72037}; foreground=CustomFrameRendererColors{inactive=#ffffff99; normal=#ffffff99; mouse_over=#ffffff; mouse_down=#ffffff}}; minmax_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#44479199; normal=#44479199; mouse_over=#4f52b2; mouse_down=#3d3e78}; foreground=CustomFrameRendererColors{inactive=#ffffff99; normal=#ffffff99; mouse_over=#ffffff; mouse_down=#ffffff}}}
+2024-09-22T14:52:24.993597+05:30 0x0000ba08 <INFO> WindowControlsModule: Defining custom frame theme mainClassic (HighContrast)
+2024-09-22T14:52:24.993597+05:30 0x0000ba08 <DBG>  CustomFrameConfiguration: Looking up 'default_contrast'
+2024-09-22T14:52:24.993597+05:30 0x0000ba08 <DBG>  CustomFrameConfiguration: Found: CustomFrameTheme{button_size=UISizeLogical{width=44; height=32}; padding=UISizeLogical{width=2; height=2}; close_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#1aebff; mouse_down=#1aebff}; foreground=CustomFrameRendererColors{inactive=#3ff23f; normal=#3ff23f; mouse_over=#000000; mouse_down=#000000}}; minmax_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#1aebff; mouse_down=#1aebff}; foreground=CustomFrameRendererColors{inactive=#3ff23f; normal=#3ff23f; mouse_over=#000000; mouse_down=#000000}}}
+2024-09-22T14:52:24.993597+05:30 0x0000ba08 <INFO> CustomFrameConfiguration: Adding 'mainClassic_contrast': CustomFrameTheme{button_size=UISizeLogical{width=44; height=48}; padding=UISizeLogical{width=2; height=2}; close_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#1aebff; mouse_down=#1aebff}; foreground=CustomFrameRendererColors{inactive=#3ff23f; normal=#3ff23f; mouse_over=#000000; mouse_down=#000000}}; minmax_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#1aebff; mouse_down=#1aebff}; foreground=CustomFrameRendererColors{inactive=#3ff23f; normal=#3ff23f; mouse_over=#000000; mouse_down=#000000}}}
+2024-09-22T14:52:24.997108+05:30 0x0000ba08 <INFO> WindowControlsModule: Defining custom frame theme defaultClassic (Dark)
+2024-09-22T14:52:24.997108+05:30 0x0000ba08 <DBG>  CustomFrameConfiguration: Looking up 'default_dark'
+2024-09-22T14:52:24.997108+05:30 0x0000ba08 <DBG>  CustomFrameConfiguration: Found: CustomFrameTheme{button_size=UISizeLogical{width=44; height=32}; padding=UISizeLogical{width=0; height=0}; close_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#c4314b; mouse_down=#8e192ee6}; foreground=CustomFrameRendererColors{inactive=#5c5c5c; normal=#5c5c5c; mouse_over=#ffffff; mouse_down=#ffffff}}; minmax_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#ffffff1a; mouse_down=#ffffff0d}; foreground=CustomFrameRendererColors{inactive=#5c5c5c; normal=#5c5c5c; mouse_over=#999de5; mouse_down=#999de5}}}
+2024-09-22T14:52:24.997108+05:30 0x0000ba08 <INFO> CustomFrameConfiguration: Adding 'defaultClassic_dark': CustomFrameTheme{button_size=UISizeLogical{width=44; height=32}; padding=UISizeLogical{width=0; height=0}; close_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#c4314b; mouse_down=#8e192ee6}; foreground=CustomFrameRendererColors{inactive=#5c5c5c; normal=#5c5c5c; mouse_over=#ffffff; mouse_down=#ffffff}}; minmax_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#ffffff1a; mouse_down=#ffffff0d}; foreground=CustomFrameRendererColors{inactive=#5c5c5c; normal=#5c5c5c; mouse_over=#999de5; mouse_down=#999de5}}}
+2024-09-22T14:52:24.997108+05:30 0x0000ba08 <INFO> WindowControlsModule: Defining custom frame theme defaultClassic (Light)
+2024-09-22T14:52:24.997108+05:30 0x0000ba08 <DBG>  CustomFrameConfiguration: Looking up 'default_light'
+2024-09-22T14:52:24.997108+05:30 0x0000ba08 <DBG>  CustomFrameConfiguration: Found: CustomFrameTheme{button_size=UISizeLogical{width=44; height=32}; padding=UISizeLogical{width=0; height=0}; close_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#c4314b; mouse_down=#8e192ee6}; foreground=CustomFrameRendererColors{inactive=#c7c7c7; normal=#c7c7c7; mouse_over=#ffffff; mouse_down=#ffffff}}; minmax_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#ffffffa6; mouse_down=#ffffff80}; foreground=CustomFrameRendererColors{inactive=#c7c7c7; normal=#c7c7c7; mouse_over=#6264a7; mouse_down=#6264a7}}}
+2024-09-22T14:52:24.997108+05:30 0x0000ba08 <INFO> CustomFrameConfiguration: Adding 'defaultClassic_light': CustomFrameTheme{button_size=UISizeLogical{width=44; height=32}; padding=UISizeLogical{width=0; height=0}; close_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#44479199; normal=#44479199; mouse_over=#c4314b; mouse_down=#a72037}; foreground=CustomFrameRendererColors{inactive=#ffffff99; normal=#ffffff99; mouse_over=#ffffff; mouse_down=#ffffff}}; minmax_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#44479199; normal=#44479199; mouse_over=#4f52b2; mouse_down=#3d3e78}; foreground=CustomFrameRendererColors{inactive=#ffffff99; normal=#ffffff99; mouse_over=#ffffff; mouse_down=#ffffff}}}
+2024-09-22T14:52:24.997108+05:30 0x0000ba08 <INFO> WindowControlsModule: Defining custom frame theme defaultClassic (HighContrast)
+2024-09-22T14:52:24.997108+05:30 0x0000ba08 <DBG>  CustomFrameConfiguration: Looking up 'default_contrast'
+2024-09-22T14:52:24.997108+05:30 0x0000ba08 <DBG>  CustomFrameConfiguration: Found: CustomFrameTheme{button_size=UISizeLogical{width=44; height=32}; padding=UISizeLogical{width=2; height=2}; close_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#1aebff; mouse_down=#1aebff}; foreground=CustomFrameRendererColors{inactive=#3ff23f; normal=#3ff23f; mouse_over=#000000; mouse_down=#000000}}; minmax_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#1aebff; mouse_down=#1aebff}; foreground=CustomFrameRendererColors{inactive=#3ff23f; normal=#3ff23f; mouse_over=#000000; mouse_down=#000000}}}
+2024-09-22T14:52:24.997108+05:30 0x0000ba08 <INFO> CustomFrameConfiguration: Adding 'defaultClassic_contrast': CustomFrameTheme{button_size=UISizeLogical{width=44; height=32}; padding=UISizeLogical{width=2; height=2}; close_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#1aebff; mouse_down=#1aebff}; foreground=CustomFrameRendererColors{inactive=#3ff23f; normal=#3ff23f; mouse_over=#000000; mouse_down=#000000}}; minmax_button_colors=CustomFrameButtonColors{background=CustomFrameRendererColors{inactive=#ffffff00; normal=#ffffff00; mouse_over=#1aebff; mouse_down=#1aebff}; foreground=CustomFrameRendererColors{inactive=#3ff23f; normal=#3ff23f; mouse_over=#000000; mouse_down=#000000}}}
+2024-09-22T14:52:25.024299+05:30 0x0000ba08 <INFO> TeamsCloud(life): received coreInitialized event from core window
+2024-09-22T14:52:25.024299+05:30 0x0000ba08 <DBG>  TeamsCloud(life): LaunchCloudRequest already completed, trying to Complete again from: msft::teams::TeamsCloud::SubscribeToEvents::<lambda_f315638783dd56f66a7e6361c96da6c6>::operator ():2342
+2024-09-22T14:52:25.024299+05:30 0x0000ba08 <DBG>  TeamsCloud(life): Stopped Console Logging
+2024-09-22T14:52:26.124760+05:30 0x0000ba08 <INFO> CdpHandler::EventSubscriber:  Detected No Subscribers for event Log.entryAdded unsubscribing for events
+2024-09-22T14:52:26.124760+05:30 0x0000ba08 <INFO> CdpHandler::EventSubscriber: RemoveDevToolsProtocolEventReceived : Log.entryAdded
+2024-09-22T14:52:26.149334+05:30 0x0000ba08 <INFO> Telemetry: Received the following values for SetPrimaryUser [ffe6b3f2063c3f14,9188040d-6c67-4c5b-b112-36a304b66dad] from PIE
+2024-09-22T14:52:26.154893+05:30 0x0000ba08 <INFO> Telemetry: Received [1] context payloads from PIE.
+2024-09-22T14:52:26.154893+05:30 0x0000ba08 <INFO> Telemetry: (UserInfo.Id , 00000000-0000-0000-ffe6-b3f2063c3f14)
+2024-09-22T14:52:26.154893+05:30 0x0000ba08 <INFO> Telemetry: Received [1] context payloads from PIE.
+2024-09-22T14:52:26.154893+05:30 0x0000ba08 <INFO> Telemetry: (userId , ffe6b3f2063c3f14)
+2024-09-22T14:52:26.154893+05:30 0x0000ba08 <INFO> Telemetry: Received [1] context payloads from PIE.
+2024-09-22T14:52:26.154893+05:30 0x0000ba08 <INFO> Telemetry: (UserInfo.Id , 00000000-0000-0000-ffe6-b3f2063c3f14)
+2024-09-22T14:52:26.154893+05:30 0x0000ba08 <INFO> Telemetry: Received [1] context payloads from PIE.
+2024-09-22T14:52:26.154893+05:30 0x0000ba08 <INFO> Telemetry: (UserInfo.TenantId , 9188040d-6c67-4c5b-b112-36a304b66dad)
+2024-09-22T14:52:26.157432+05:30 0x0000ba08 <INFO> Telemetry: Received [1] context payloads from PIE.
+2024-09-22T14:52:26.157432+05:30 0x0000ba08 <INFO> Telemetry: (UserInfo.Type , MsaLife)
+2024-09-22T14:52:26.157432+05:30 0x0000ba08 <INFO> Telemetry: Received [1] context payloads from PIE.
+2024-09-22T14:52:26.157432+05:30 0x0000ba08 <INFO> Telemetry: (UserInfo.Role , Member)
+2024-09-22T14:52:26.157432+05:30 0x0000ba08 <INFO> Telemetry: Received [1] context payloads from PIE.
+2024-09-22T14:52:26.157432+05:30 0x0000ba08 <INFO> Telemetry: (UserInfo.IsMRU , )
+2024-09-22T14:52:26.157432+05:30 0x0000ba08 <INFO> Telemetry: Received [1] context payloads from PIE.
+2024-09-22T14:52:26.157432+05:30 0x0000ba08 <INFO> Telemetry: (UserInfo.IsMRU , true)
+2024-09-22T14:52:26.165518+05:30 0x0000ba08 <DBG>  EcsUserContextManager: SetUserContext: Updating MagLev primary user context life
+2024-09-22T14:52:26.173529+05:30 0x0000ba08 <INFO> Telemetry: Received [1] context payloads from PIE.
+2024-09-22T14:52:26.173529+05:30 0x0000ba08 <INFO> Telemetry: (UserInfo.Id , 00000000-0000-0000-ffe6-b3f2063c3f14)
+2024-09-22T14:52:26.173529+05:30 0x0000ba08 <INFO> Telemetry: Received [1] context payloads from PIE.
+2024-09-22T14:52:26.173529+05:30 0x0000ba08 <INFO> Telemetry: (userId , ffe6b3f2063c3f14)
+2024-09-22T14:52:26.173529+05:30 0x0000ba08 <INFO> Telemetry: Received [1] context payloads from PIE.
+2024-09-22T14:52:26.173529+05:30 0x0000ba08 <INFO> Telemetry: (UserInfo.Id , 00000000-0000-0000-ffe6-b3f2063c3f14)
+2024-09-22T14:52:26.173529+05:30 0x0000ba08 <INFO> Telemetry: Received [1] context payloads from PIE.
+2024-09-22T14:52:26.173529+05:30 0x0000ba08 <INFO> Telemetry: (UserInfo.TenantId , 9188040d-6c67-4c5b-b112-36a304b66dad)
+2024-09-22T14:52:26.173529+05:30 0x0000ba08 <INFO> Telemetry: Received [1] context payloads from PIE.
+2024-09-22T14:52:26.173529+05:30 0x0000ba08 <INFO> Telemetry: (UserInfo.Type , MsaLife)
+2024-09-22T14:52:26.173529+05:30 0x0000ba08 <INFO> Telemetry: Received [1] context payloads from PIE.
+2024-09-22T14:52:26.173529+05:30 0x0000ba08 <INFO> Telemetry: (UserInfo.Role , Member)
+2024-09-22T14:52:26.176033+05:30 0x0000ba08 <INFO> Telemetry: Received [1] context payloads from PIE.
+2024-09-22T14:52:26.176033+05:30 0x0000ba08 <INFO> Telemetry: (UserInfo.IsMRU , )
+2024-09-22T14:52:26.176033+05:30 0x0000ba08 <INFO> Telemetry: Received [1] context payloads from PIE.
+2024-09-22T14:52:26.176033+05:30 0x0000ba08 <INFO> Telemetry: (UserInfo.IsMRU , true)
+2024-09-22T14:52:26.489167+05:30 0x0000ba08 <INFO> auth::AuthenticationService::GetAccountsFromMachine: (17afbda2-a9e7-48d5-bf23-cc307a0a4206) Start
+2024-09-22T14:52:26.489167+05:30 0x0000c848 <INFO> auth::OneAuthReadMachineAccounts: (17afbda2-a9e7-48d5-bf23-cc307a0a4206) Start
+2024-09-22T14:52:26.496175+05:30 0x0000c848 <INFO> auth::OneAuthReadMachineAccounts: (17afbda2-a9e7-48d5-bf23-cc307a0a4206) Result count: 1
+2024-09-22T14:52:26.496175+05:30 0x0000c848 <INFO> auth::OneAuthGetAccountPicture: Started for account ID ffe6b3f2063c3f14
+2024-09-22T14:52:26.497204+05:30 0x0000c848 <INFO> auth::OneAuthGetAccountPicture: End
+2024-09-22T14:52:26.497204+05:30 0x0000c848 <INFO> auth::AuthenticationService::GetAccountsFromMachine: (17afbda2-a9e7-48d5-bf23-cc307a0a4206) End
+2024-09-22T14:52:26.506717+05:30 0x0000ba08 <INFO> CdpHandler::EventSubscriber:  Detected No Subscribers for event Runtime.consoleAPICalled unsubscribing for events
+2024-09-22T14:52:26.506717+05:30 0x0000ba08 <INFO> CdpHandler::EventSubscriber: RemoveDevToolsProtocolEventReceived : Runtime.consoleAPICalled
+2024-09-22T14:52:26.529377+05:30 0x0000ba08 <INFO> native_modules::UserDataCrossCloudModule: CloudStateChanged: New Cloud State Event: UserDataCloudState total number of users: 1 { user id :ffe6b3f2063c3f14, availability: PresenceUnknown, unread notification count: 0 }
+2024-09-22T14:52:26.529377+05:30 0x0000ba08 <INFO> native_modules::UserDataCrossCloudModule: BroadcastGlobalState: New Global State Event: UserDataGlobalState total number of users: 1 { user id :ffe6b3f2063c3f14, availability: PresenceUnknown, unread notification count: 0 }
+2024-09-22T14:52:26.529377+05:30 0x0000ba08 <INFO> CdpHandler::EventSubscriber:  Detected No Subscribers for event Network.loadingFailed unsubscribing for events
+2024-09-22T14:52:26.529377+05:30 0x0000ba08 <INFO> CdpHandler::EventSubscriber: RemoveDevToolsProtocolEventReceived : Network.loadingFailed
+2024-09-22T14:52:26.549536+05:30 0x0000ba08 <INFO> native_modules::UserDataCrossCloudModule: Received Action: UserAuthStateDataAction: {cloud_context: https://teams.live.com , user id: ffe6b3f2063c3f14 , errorCode:  , state: Up , visibilityState: }
+2024-09-22T14:52:26.549536+05:30 0x0000ba08 <INFO> native_modules::UserDataCrossCloudModule: CloudStateChanged: New Cloud State Event: UserDataCloudState total number of users: 1 { user id :ffe6b3f2063c3f14, availability: PresenceUnknown, unread notification count: 0 }
+2024-09-22T14:52:26.549536+05:30 0x0000ba08 <INFO> native_modules::UserDataCrossCloudModule: BroadcastGlobalState: New Global State Event: UserDataGlobalState total number of users: 1 { user id :ffe6b3f2063c3f14, availability: PresenceUnknown, unread notification count: 0 }
+2024-09-22T14:52:26.554082+05:30 0x0000ba08 <INFO> native_modules::UserDataCrossCloudModule: CloudStateChanged: New Cloud State Event: UserDataCloudState total number of users: 1 { user id :ffe6b3f2063c3f14, availability: PresenceUnknown, unread notification count: 0 }
+2024-09-22T14:52:26.554082+05:30 0x0000ba08 <INFO> native_modules::UserDataCrossCloudModule: BroadcastGlobalState: New Global State Event: UserDataGlobalState total number of users: 1 { user id :ffe6b3f2063c3f14, availability: PresenceUnknown, unread notification count: 0 }
+2024-09-22T14:52:26.570744+05:30 0x0000ba08 <INFO> auth::AuthenticationService::MigratePendingMsaAccount: (17afbda2-a9e7-48d5-bf23-cc307a0a4206) Start
+2024-09-22T14:52:26.570744+05:30 0x0000ba08 <INFO> auth::AuthenticationService::MigratePendingMsaAccount: (17afbda2-a9e7-48d5-bf23-cc307a0a4206) No user to migrate
+2024-09-22T14:52:26.570744+05:30 0x0000ba08 <INFO> auth::AuthenticationService::MigratePendingMsaAccount: (17afbda2-a9e7-48d5-bf23-cc307a0a4206) End
+2024-09-22T14:52:26.570744+05:30 0x0000ba08 <INFO> auth::AuthenticationService::GetActiveUsers: (17afbda2-a9e7-48d5-bf23-cc307a0a4206) Start
+2024-09-22T14:52:26.570744+05:30 0x0000ba08 <INFO> auth::AuthenticationService::GetActiveUsers: (17afbda2-a9e7-48d5-bf23-cc307a0a4206) Ids stored in file: ffe6b3f2063c3f14
+2024-09-22T14:52:26.570744+05:30 0x0000ba08 <INFO> auth::OneAuthProvider::GetUsersByIds: (17afbda2-a9e7-48d5-bf23-cc307a0a4206) Start
+2024-09-22T14:52:26.570744+05:30 0x0000ba08 <INFO> auth::OneAuthReadAccountById: Start
+2024-09-22T14:52:26.578456+05:30 0x0000ba08 <INFO> auth::OneAuthReadAccountById: End
+2024-09-22T14:52:26.578456+05:30 0x0000ba08 <INFO> auth::utilities::GenerateOidFromCid: Converting CID to GUID. ffe6b3f2063c3f14
+2024-09-22T14:52:26.578456+05:30 0x0000ba08 <INFO> auth::AuthenticationService::GetActiveUsers: (17afbda2-a9e7-48d5-bf23-cc307a0a4206) End
+2024-09-22T14:52:26.776579+05:30 0x0000ba08 <INFO> native_modules::UserDataCrossCloudModule: BroadcastGlobalState: Skipping broadcast, state is unchanged
+2024-09-22T14:52:27.202385+05:30 0x0000ba08 <INFO> Telemetry: Received [1] context payloads from PIE.
+2024-09-22T14:52:27.202385+05:30 0x0000ba08 <INFO> Telemetry: (AppInfo.VersionNew , 49/24090101043,24231.512.3106.6573)
+2024-09-22T14:52:27.845295+05:30 0x00009364 <INFO> auth::OneAuthDiscoverMachineAccounts: (cc082683-2588-48f5-aaae-84545655f04f) Completed
+2024-09-22T14:52:27.845295+05:30 0x00009364 <INFO> auth::AuthenticationService::InitiateMachineAccountDiscovery: (cc082683-2588-48f5-aaae-84545655f04f) End
+2024-09-22T14:57:24.130720+05:30 0x0000ba08 <INFO> WebClientStatesModule: operator (): current=Active, new_state=Inactive
+2024-09-22T14:57:24.130720+05:30 0x0000ba08 <DBG>  WebClientStateTracker: OnWebClientStateChange Registering highest new client state: Inactive
+2024-09-22T14:57:24.177597+05:30 0x0000ba08 <INFO> AppSwitcher: IsT1Running: No instances of teams.exe found!
+2024-09-22T14:57:24.177597+05:30 0x0000ba08 <INFO> ActivityBasedUpdater: New web client state: Inactive, power state: Resumed
+2024-09-22T14:57:24.177597+05:30 0x0000ba08 <INFO> SuspendEventInterceptor: UnblockEvent Attempting to unblock OS suspend
+2024-09-22T14:57:24.177597+05:30 0x0000ba08 <INFO> ScreenLockEventInterceptor: UnblockEvent Attempting to unblock OS screen lock
+2024-09-22T14:57:24.193224+05:30 0x0000ba08 <INFO> RegisterCrashMetadata: RegisterCrashMetadata adding metadata: AppInfo_ClientState metadata value Inactive
+2024-09-22T14:57:24.193224+05:30 0x0000ba08 <INFO> TeamsWebView: App NOT in active use.
+2024-09-22T14:57:24.193224+05:30 0x0000ba08 <DBG>  WebViewControl: Memory usage level changed to: LOW
+2024-09-22T14:57:24.286992+05:30 0x0000ba08 <DBG>  CdpHandler: CallDevToolsProtocolMethod: HeapProfiler.collectGarbage : SUCCESS
+2024-09-22T15:17:24.163346+05:30 0x0000ba08 <INFO> WebClientStatesModule: operator (): current=Inactive, new_state=LongInactive
+2024-09-22T15:17:24.163346+05:30 0x0000ba08 <DBG>  WebClientStateTracker: OnWebClientStateChange Registering highest new client state: LongInactive
+2024-09-22T15:17:24.163346+05:30 0x0000ba08 <INFO> ActivityBasedUpdater: New web client state: LongInactive, power state: Resumed
+2024-09-22T15:17:24.163346+05:30 0x0000ba08 <INFO> ActivityBasedUpdater: Setting timer
+2024-09-22T15:17:24.163346+05:30 0x0000ba08 <INFO> SuspendEventInterceptor: UnblockEvent Attempting to unblock OS suspend
+2024-09-22T15:17:24.163346+05:30 0x0000ba08 <INFO> ScreenLockEventInterceptor: UnblockEvent Attempting to unblock OS screen lock
+2024-09-22T15:17:24.178982+05:30 0x0000ba08 <INFO> RegisterCrashMetadata: RegisterCrashMetadata adding metadata: AppInfo_ClientState metadata value LongInactive
+2024-09-22T15:17:24.178982+05:30 0x0000ba08 <INFO> TeamsWebView: App NOT in active use.
+2024-09-22T15:17:24.321503+05:30 0x0000ba08 <DBG>  CdpHandler: CallDevToolsProtocolMethod: HeapProfiler.collectGarbage : SUCCESS
+2024-09-22T15:17:34.156665+05:30 0x0000ba08 <INFO> Updater: Machine has not been idle long enough. Skip restarting app
+2024-09-22T15:37:38.526468+05:30 0x0000ba08 <INFO> OsUtilsImpl: Raising session state changed: Locked
+2024-09-22T15:37:38.542095+05:30 0x0000ba08 <DBG>  SystemPowerObserver: Suspend
+2024-09-22T15:37:38.542095+05:30 0x0000ba08 <INFO> ActivityBasedUpdater: Web client state: LongInactive, new power state: Suspending
+2024-09-22T15:37:38.542095+05:30 0x0000ba08 <DBG>  SystemPowerObserver: Suspend
+2024-09-22T15:37:38.542095+05:30 0x0000ba08 <INFO> OsUtilsImpl: Raising power state changed: Suspending
+2024-09-22T15:37:38.542095+05:30 0x0000ba08 <DBG>  SystemPowerObserver: Suspend
+2024-09-22T15:58:48.935269+05:30 0x0000ba08 <DBG>  SystemPowerObserver: Resume
+2024-09-22T15:58:48.935269+05:30 0x0000ba08 <INFO> ActivityBasedUpdater: Web client state: LongInactive, new power state: Resumed
+2024-09-22T15:58:48.935269+05:30 0x0000ba08 <DBG>  SystemPowerObserver: Resume
+2024-09-22T15:58:48.935269+05:30 0x0000ba08 <INFO> OsUtilsImpl: Raising power state changed: Resumed
+2024-09-22T15:58:48.935269+05:30 0x0000ba08 <DBG>  SystemPowerObserver: Resume
+2024-09-22T15:58:57.286806+05:30 0x0000ba08 <INFO> OsUtilsImpl: Raising session state changed: Unlocked
+2024-09-22T16:13:28.102684+05:30 0x0000ba08 <INFO> EcsSettings: Full build path /BuildSettings/WebView2Canary/x64/latestVersion
+2024-09-22T16:13:28.102684+05:30 0x0000ba08 <DBG>  EcsSettings: ClientId=55406602-4b9b-46f5-b5d1-1cf2ac11d40e aaduserid=00000000-0000-0000-ffe6-b3f2063c3f14 agents=TeamsBuilds,TeamsWebview2 audience=general cloud=life country=IN cpuarch=x64 desktopVersion=24231.512.3106.6573 environment=life id=00000000-0000-0000-ffe6-b3f2063c3f14 mtmaCount=1 osplatform=windows osversion=10.0.22631 teamslocale=en-gb teamsring=general tenantId=9188040d-6c67-4c5b-b112-36a304b66dad 
+2024-09-22T16:13:28.102684+05:30 0x0000ba08 <INFO> TelemetryEcsSettingsObserver: OnEcsSettingsRefreshed
+2024-09-22T16:13:28.165142+05:30 0x0000ba08 <INFO> TelemetryEcsSettingsObserver: Updating ecs values
+2024-09-22T16:13:28.165142+05:30 0x0000ba08 <DBG>  EventSuppressionService: Sampling rules updated
+2024-09-22T16:13:28.165142+05:30 0x0000ba08 <DBG>  EventSuppressionService: Sampling rules updated
+2024-09-22T16:13:28.165142+05:30 0x0000ba08 <INFO> TelemetryService: Using sampling rules from ecs
+2024-09-22T16:13:28.165142+05:30 0x0000ba08 <INFO> TelemetryService: InitOfficeDiagnosticLevel to OfficeDiagnosticLevel::Unset
+2024-09-22T16:13:28.165142+05:30 0x0000ba08 <INFO> TelemetryService: Getting configuration values for cloud life
+2024-09-22T16:13:28.165142+05:30 0x0000ba08 <DBG>  EventSuppressionService: Sampling rules updated
+2024-09-22T16:13:28.165142+05:30 0x0000ba08 <DBG>  EventSuppressionService: Sampling rules updated
+2024-09-22T16:13:28.165142+05:30 0x0000ba08 <INFO> TelemetryService: Using sampling rules from ecs
+2024-09-22T16:13:28.165142+05:30 0x0000ba08 <INFO> ScenarioFactoryEcsObserver: OnEcsSettingsRefreshed
+2024-09-22T16:13:28.227852+05:30 0x0000ba08 <INFO> ScenarioFactoryEcsObserver: Updating ecs values
+2024-09-22T16:13:28.227852+05:30 0x0000ba08 <INFO> ScenarioFactoryEcsObserver: Updating ecs values for wrapper CONSUMER
+2024-09-22T16:13:28.227852+05:30 0x0000ba08 <INFO> UserbiEcsObserver: OnEcsSettingsRefreshed
+2024-09-22T16:13:28.290357+05:30 0x0000ba08 <INFO> UserbiEcsObserver: Updating ecs values
+2024-09-22T16:13:28.290357+05:30 0x0000ba08 <INFO> EcsSettings: Full build path /BuildSettings/WebView2Canary/x64/latestVersion
+2024-09-22T16:13:28.305981+05:30 0x0000ba08 <INFO> EcsSettings: Full build path /BuildSettings/WebView2Canary/x64/buildLink
+2024-09-22T16:13:28.305981+05:30 0x0000ba08 <DBG>  TmaEcsSettingsObserver: OnEcsSettingsRefreshed
+2024-09-22T16:13:28.305981+05:30 0x0000ba08 <INFO> TmaSettings: operator (): Skipping ECS fetch for MSA account since TMA is not supported yet
+2024-09-22T16:18:45.811019+05:30 0x0000ba08 <INFO> OsUtilsImpl: Raising session state changed: Locked
+2024-09-22T16:18:45.834809+05:30 0x0000ba08 <DBG>  SystemPowerObserver: Suspend
+2024-09-22T16:18:45.834809+05:30 0x0000ba08 <INFO> ActivityBasedUpdater: Web client state: LongInactive, new power state: Suspending
+2024-09-22T16:18:45.834809+05:30 0x0000ba08 <DBG>  SystemPowerObserver: Suspend
+2024-09-22T16:18:45.834809+05:30 0x0000ba08 <INFO> OsUtilsImpl: Raising power state changed: Suspending
+2024-09-22T16:18:45.834809+05:30 0x0000ba08 <DBG>  SystemPowerObserver: Suspend
+2024-09-22T16:24:45.005281+05:30 0x0000ba08 <DBG>  SystemPowerObserver: Resume
+2024-09-22T16:24:45.005281+05:30 0x0000ba08 <INFO> ActivityBasedUpdater: Web client state: LongInactive, new power state: Resumed
+2024-09-22T16:24:45.005281+05:30 0x0000ba08 <DBG>  SystemPowerObserver: Resume
+2024-09-22T16:24:45.005281+05:30 0x0000ba08 <INFO> OsUtilsImpl: Raising power state changed: Resumed
+2024-09-22T16:24:45.005281+05:30 0x0000ba08 <DBG>  SystemPowerObserver: Resume
+2024-09-22T16:34:37.839262+05:30 0x0000ba08 <INFO> OsUtilsImpl: Raising session state changed: Unlocked
+2024-09-22T17:19:24.790223+05:30 0x0000ba08 <INFO> EcsSettings: Full build path /BuildSettings/WebView2Canary/x64/latestVersion
+2024-09-22T17:19:24.791480+05:30 0x0000ba08 <DBG>  EcsSettings: ClientId=55406602-4b9b-46f5-b5d1-1cf2ac11d40e aaduserid=00000000-0000-0000-ffe6-b3f2063c3f14 agents=TeamsBuilds,TeamsWebview2 audience=general cloud=life country=IN cpuarch=x64 desktopVersion=24231.512.3106.6573 environment=life id=00000000-0000-0000-ffe6-b3f2063c3f14 mtmaCount=1 osplatform=windows osversion=10.0.22631 teamslocale=en-gb teamsring=general tenantId=9188040d-6c67-4c5b-b112-36a304b66dad 
+2024-09-22T17:19:24.791480+05:30 0x0000ba08 <INFO> TelemetryEcsSettingsObserver: OnEcsSettingsRefreshed
+2024-09-22T17:19:24.859756+05:30 0x0000ba08 <INFO> TelemetryEcsSettingsObserver: Updating ecs values
+2024-09-22T17:19:24.859756+05:30 0x0000ba08 <DBG>  EventSuppressionService: Sampling rules updated
+2024-09-22T17:19:24.859756+05:30 0x0000ba08 <DBG>  EventSuppressionService: Sampling rules updated
+2024-09-22T17:19:24.859756+05:30 0x0000ba08 <INFO> TelemetryService: Using sampling rules from ecs
+2024-09-22T17:19:24.862322+05:30 0x0000ba08 <INFO> TelemetryService: InitOfficeDiagnosticLevel to OfficeDiagnosticLevel::Unset
+2024-09-22T17:19:24.862322+05:30 0x0000ba08 <INFO> TelemetryService: Getting configuration values for cloud life
+2024-09-22T17:19:24.862322+05:30 0x0000ba08 <DBG>  EventSuppressionService: Sampling rules updated
+2024-09-22T17:19:24.862322+05:30 0x0000ba08 <DBG>  EventSuppressionService: Sampling rules updated
+2024-09-22T17:19:24.862322+05:30 0x0000ba08 <INFO> TelemetryService: Using sampling rules from ecs
+2024-09-22T17:19:24.862322+05:30 0x0000ba08 <INFO> ScenarioFactoryEcsObserver: OnEcsSettingsRefreshed
+2024-09-22T17:19:24.927244+05:30 0x0000ba08 <INFO> ScenarioFactoryEcsObserver: Updating ecs values
+2024-09-22T17:19:24.927244+05:30 0x0000ba08 <INFO> ScenarioFactoryEcsObserver: Updating ecs values for wrapper CONSUMER
+2024-09-22T17:19:24.927244+05:30 0x0000ba08 <INFO> UserbiEcsObserver: OnEcsSettingsRefreshed
+2024-09-22T17:19:24.989214+05:30 0x0000ba08 <INFO> UserbiEcsObserver: Updating ecs values
+2024-09-22T17:19:24.989214+05:30 0x0000ba08 <INFO> EcsSettings: Full build path /BuildSettings/WebView2Canary/x64/latestVersion
+2024-09-22T17:19:24.992835+05:30 0x0000ba08 <INFO> EcsSettings: Full build path /BuildSettings/WebView2Canary/x64/buildLink
+2024-09-22T17:19:24.992835+05:30 0x0000ba08 <DBG>  TmaEcsSetting

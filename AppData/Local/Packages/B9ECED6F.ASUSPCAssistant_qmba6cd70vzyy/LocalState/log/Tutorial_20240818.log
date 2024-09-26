@@ -1,0 +1,19 @@
+[2024/08/18 20:06:01.131 <18>] <SetPluginData:345> SetPluginData from <0>: AsusDeviceStatus
+[2024/08/18 20:06:01.134 <18>] <_HandleAsusDeviceStatus:414> DeviceType: DEVICE2018 IsMB: False IsSMode: False
+[2024/08/18 20:06:02.868 <56>] <Initial:94> IsWin11: True
+[2024/08/18 20:06:03.045 <1>] <ReceivePluginDataCallback:474> ReceivePluginDataCallback from <0>: SwitchWebApiRegion
+[2024/08/18 20:06:03.046 <1>] <_HandleSwitchWebApiRegion:547> WW => WW
+[2024/08/18 20:06:03.438 <56>] <_CheckDevice:203> SwitchStatusHandler: {
+  "Command": "GetSwitchStatus",
+  "Status": true
+}
+[2024/08/18 20:06:03.438 <56>] <_CheckDevice:214> Handle GetSwitchStatus IsPCMoverEnabled: True
+[2024/08/18 20:06:03.567 <35>] <_CheckDevice:246> Handle GetExclusiveStatus m_DeviceTypes Contains None: True
+[2024/08/18 20:06:03.567 <62>] <_CheckDevice:182> Handle GetSTPStatus m_DeviceTypes Contains SeamlessTouchpad: False
+[2024/08/18 20:06:03.570 <60>] <_CheckDevice:280> Handle GetCVFPSensorStatus m_DeviceTypes Contains CVFPSensor: False
+[2024/08/18 20:06:03.598 <1>] <ReceivePluginDataCallback:474> ReceivePluginDataCallback from <0>: SwitchUIContentByURI
+[2024/08/18 20:06:03.780 <57>] <ReceivePluginDataCallback:474> ReceivePluginDataCallback from <0>: BackgroundInitial
+[2024/08/18 20:06:04.748 <1>] <TutorialRootV3_Loaded:124> TutorialRootV3_Loaded Start
+[2024/08/18 20:06:04.751 <1>] <Initial:256> IsWin11: True
+[2024/08/18 20:06:05.045 <1>] <Initial:264> Location: (IND)
+[2024/08/18 20:06:05.067 <1>] <TutorialRootV3_Loaded:128> TutorialRootV3_Loaded End
